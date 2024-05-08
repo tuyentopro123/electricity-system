@@ -1,0 +1,41 @@
+.layout {
+    position: relative;
+    background-image: url(https://pic.pikbest.com/02/01/22/53K888piC7JN.jpg!bw700);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.back_home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.logout {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+}
+
+.back {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+}
+
+.back.none {
+    display: none;
+}
+
+.home-title {
+    top: 2%;
+    position: absolute;
+    right: 2%;
+    color: #fff;
+    font-size: 16px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "province",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon express.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}

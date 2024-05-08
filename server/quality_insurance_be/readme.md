@@ -1,0 +1,3 @@
+- Copy file .env.example thành .env
+- Chỉnh config trong file .env cho phù hợp
+- Chạy docker compose với câu lệnh "docker compose up -d"

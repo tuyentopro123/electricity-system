@@ -1,0 +1,600 @@
+Đào Minh Nhật|Ba Vì|Vạn Thắng|104 Đường Nguyễn Thái Học|208|484|2024-01-31|true|Trịnh Minh Tuấn|minhnhat_7kao18@hotmail.com|false|true
+Tô Xuân Hoa|Sơn Tây|Lê Lợi|61 Thái Hà|378|656|2024-01-31|false|Trịnh Minh Tuấn|xuanhoa_to81@gmail.com|true|true
+Vương Khải Hà|Sóc Sơn|Mai Đình|143 Xã Tàm Xá|157|495|2024-01-31|true|Trịnh Minh Tuấn|khaiha_vuong87@yahoo.com|false|true
+Lâm Huân Võ|Thanh Trì|Vĩnh Quỳnh|147 Đê La Thành|258|479|2024-01-31|true|Trịnh Minh Tuấn|huanvo.lam@yahoo.com|false|true
+Vũ Ngọc Ly|Chương Mỹ|Phú Nghĩa|21 Vân Côn|239|487|2024-01-31|true|Trịnh Minh Tuấn|ngocly.vu73@hotmail.com|false|true
+Vương Bình Thuận|Đông Anh|Xuân Nộn|196 Dương Liễu|198|210|2024-01-31|true|Trịnh Minh Tuấn|binhthuan_vuong@yahoo.com|false|true
+Trương Kim Thu|Đan Phượng|Thọ Xuân|69 Đường Nguyễn Thái Học|256|531|2024-01-31|true|Trịnh Minh Tuấn|kimthu_truong@gmail.com|false|true
+Đào Gia Huấn|Mê Linh|Hoàng Kim|182 Ngõ 173 Hoàng Hoa Thám|389|634|2024-01-31|true|Trịnh Minh Tuấn|giahuan.7kao72@hotmail.com|false|true
+Hà Anh Đức|Quốc Oai|Liệp Tuyết|20 Đường Hoàng Diệu|376|524|2024-01-31|true|Trịnh Minh Tuấn|anh7kuc_ha64@hotmail.com|false|true
+Phùng Lâm Vũ|Cầu Giấy|Dịch Vọng|196 Đường Cầu Đôi|383|465|2024-01-31|true|Trịnh Minh Tuấn|lamvu.phung66@yahoo.com|false|true
+Hà Hà Thanh|Thanh Xuân|Kim Giang|96 Vạn Điểm|254|431|2024-01-31|true|Trịnh Minh Tuấn|hathanh_ha@gmail.com|false|true
+Phan Quỳnh Hương|Sơn Tây|Xuân Sơn|27 Yên Sở|141|368|2024-01-31|true|Trịnh Minh Tuấn|quynhhuong.phan54@hotmail.com|false|true
+Đoàn Trang Anh|Quốc Oai|Cấn Hữu|154 Đường Cơ Xá|262|552|2024-01-31|true|Trịnh Minh Tuấn|tranganh_7koan59@hotmail.com|false|true
+Đặng Thanh Hường|Thanh Oai|Dân Hoà|172 Ninh Sở|274|307|2024-01-31|true|Trịnh Minh Tuấn|thanhhuong_7kang28@hotmail.com|false|true
+Lâm Lệ Băng|Thường Tín|Hoà Bình|159 Đường Quốc Lộ 5|337|540|2024-01-31|true|Trịnh Minh Tuấn|lebang.lam88@gmail.com|false|true
+Mai Thiên Tuyền|Thạch Thất|Thạch Xá|146 Đường Bắc Thăng Long-Hải Bối|134|354|2024-01-31|true|Trịnh Minh Tuấn|thientuyen_mai@yahoo.com|false|true
+Hà Việt Hồng|Ứng Hoà|Đồng Tiến|131 Đường Nghĩa Vũ|250|306|2024-01-31|true|Trịnh Minh Tuấn|viethong.ha@hotmail.com|false|true
+Lê Quốc Quân|Sơn Tây|Trung Hưng|10 Phố Thanh Bảo|164|508|2024-01-31|false|Trịnh Minh Tuấn|quocquan_le@gmail.com|true|true
+Hồ Anh Thi|Sơn Tây|Phú Thịnh|118 Ngọc Hà|386|533|2024-01-31|true|Trịnh Minh Tuấn|anhthi_ho@hotmail.com|false|true
+Trần Thiện Ân|Thường Tín|Văn Tự|45 Ngõ 138 Ngọc Hà|298|370|2024-01-31|true|Trịnh Minh Tuấn|thienan.tran@hotmail.com|false|true
+Đinh Tường Chinh|Đan Phượng|Đồng Tháp|109 Ngõ 138 Ngọc Hà|245|355|2024-01-31|true|Trịnh Minh Tuấn|tuongchinh.7kinh@yahoo.com|false|true
+Hoàng Thượng Cường|Tây Hồ|Thụy Khuê|11 Phố Đốc Ngữ|338|429|2024-01-31|true|Trịnh Minh Tuấn|thuongcuong.hoang@hotmail.com|false|true
+Đào Diễm Khuê|Long Biên|Gia Thụy|197 Phường Cấn|142|336|2024-01-31|true|Trịnh Minh Tuấn|diemkhue_7kao@yahoo.com|false|true
+Vương Xuân Yến|Phú Xuyên|Quang Lãng|85 Đường Núi Đôi|269|463|2024-01-31|true|Trịnh Minh Tuấn|xuanyen_vuong82@hotmail.com|false|true
+Đặng Quốc Văn|Đông Anh|Nam Hồng|77 Cách Bi|277|649|2024-01-31|false|Trịnh Minh Tuấn|quocvan_7kang37@gmail.com|true|true
+Vương Bích Thủy|Chương Mỹ|Hữu Văn|39 Đường Quốc Lộ 1|342|484|2024-01-31|true|Trịnh Minh Tuấn|bichthuy.vuong@hotmail.com|false|true
+Phùng Nguyệt Ánh|Bắc Từ Liêm|Đức Thắng|177 Chùa Láng|159|438|2024-01-31|true|Trịnh Minh Tuấn|nguyetanh_phung89@hotmail.com|false|true
+Bùi Tuyết Trầm|Đan Phượng|Đan Phượng|82 Đường 9|196|262|2024-01-31|true|Trịnh Minh Tuấn|tuyettram.bui@gmail.com|false|true
+Lê Hồng Lĩnh|Tây Hồ|Xuân La|128 Đường Đồng Dầu|256|401|2024-01-31|true|Trịnh Minh Tuấn|honglinh.le@yahoo.com|false|true
+Đinh Quốc Hoài|Đan Phượng|Tân Hội|83 Đường Cống Bi|263|556|2024-01-31|true|Trịnh Minh Tuấn|quochoai.7kinh@yahoo.com|false|true
+Nguyễn Vũ Anh|Đông Anh|Vân Nội|71 Đường Quán Thánh|123|202|2024-01-31|true|Trịnh Minh Tuấn|vuanh.nguyen@yahoo.com|false|true
+Hồ Tường Lĩnh|Đan Phượng|Trung Châu|209 Đường Phương Trạch|182|458|2024-01-31|true|Trịnh Minh Tuấn|tuonglinh_ho11@hotmail.com|false|true
+Đặng Ngọc Lâm|Phúc Thọ|Tam Hiệp|88 Phố Lê Hồng Phong|295|324|2024-01-31|true|Trịnh Minh Tuấn|ngoclam.7kang20@yahoo.com|false|true
+Vũ Sơn Tuyền|Gia Lâm|Trung Mầu|95 Ngõ 376 đường Bưởi|277|595|2024-01-31|true|Trịnh Minh Tuấn|sontuyen_vu86@hotmail.com|false|true
+Nguyễn Trọng Trí|Hai Bà Trưng|Cầu Dền|21 Đường Nguyễn Chí Thanh|187|224|2024-01-31|false|Trịnh Minh Tuấn|trongtri.nguyen77@hotmail.com|true|true
+Hồ Mạnh Tấn|Mê Linh|Thanh Lâm|99 Ninh Sở|169|299|2024-01-31|true|Trịnh Minh Tuấn|manhtan.ho93@yahoo.com|false|true
+Phạm Tuấn Khải|Long Biên|Thạch Bàn|156 Di Trạch|229|587|2024-01-31|true|Trịnh Minh Tuấn|tuankhai_pham91@gmail.com|false|true
+Hoàng Mỹ Kiều|Hai Bà Trưng|Lê Đại Hành|197 Phố Chùa Một Cột|101|424|2024-01-31|true|Trịnh Minh Tuấn|mykieu.hoang37@yahoo.com|false|true
+Lê Sao Mai|Quốc Oai|Quốc Oai|143 Ngõ 376 đường Bưởi|126|397|2024-01-31|true|Trịnh Minh Tuấn|saomai.le10@hotmail.com|false|true
+Hà Đức Sinh|Cầu Giấy|Mai Dịch|126 Ngõ Ngọc Hà|110|247|2024-01-31|true|Trịnh Minh Tuấn|7kucsinh.ha@hotmail.com|false|true
+Ngô Quế Linh|Hai Bà Trưng|Lê Đại Hành|133 An Dương|368|457|2024-01-31|false|Trịnh Minh Tuấn|quelinh_ngo@hotmail.com|true|true
+Nguyễn Yến Trinh|Phú Xuyên|Phúc Tiến|78 Đường Đào Cam Mộc|317|405|2024-01-31|true|Trịnh Minh Tuấn|yentrinh_nguyen@hotmail.com|false|true
+Vũ Minh Hoàng|Đống Đa|Trung Liệt|14 Đường Xuân Canh|195|199|2024-01-31|true|Trịnh Minh Tuấn|minhhoang.vu17@yahoo.com|false|true
+Dương Hoàng Dũng|Long Biên|Phúc Lợi|52 Đường Nguyễn Chí Thanh|310|642|2024-01-31|true|Trịnh Minh Tuấn|hoangdung.duong3@gmail.com|false|true
+Vũ Thông Minh|Phúc Thọ|Xuân Đình|194 Đường Bờ Hồ|363|603|2024-01-31|true|Trịnh Minh Tuấn|thongminh.vu33@hotmail.com|false|true
+Mai Ngân Trúc|Mê Linh|Kim Hoa|85 Vân Canh|175|234|2024-01-31|true|Trịnh Minh Tuấn|ngantruc.mai@gmail.com|false|true
+Phạm Kim Phượng|Hoàn Kiếm|Hàng Bạc|68 Đường Nguyễn Thái Học|218|546|2024-01-31|true|Trịnh Minh Tuấn|kimphuong.pham@yahoo.com|false|true
+Đặng Bích Hiền|Sóc Sơn|Bắc Sơn|105 Phố Yên Ninh|137|412|2024-01-31|true|Trịnh Minh Tuấn|bichhien.7kang@gmail.com|false|true
+Lê Lệ Chi|Phú Xuyên|Vân Từ|205 Đường Thanh Báo|236|412|2024-01-31|true|Trịnh Minh Tuấn|lechi.le@hotmail.com|false|true
+Lâm Tuyết Lâm|Mỹ Đức|Hợp Thanh|47 Đường Nguyễn Thái Học|191|499|2024-01-31|true|Trịnh Minh Tuấn|tuyetlam.lam57@gmail.com|false|true
+Đặng Lâm Tuyền|Ba Vì|Tản Hồng|12 Xã Nguyên Khê|208|591|2024-01-31|false|Trịnh Minh Tuấn|lamtuyen.7kang@gmail.com|true|true
+Hồ Khắc Tuấn|Phúc Thọ|Hiệp Thuận|139 Phố Tôn Thất Thiệp|321|637|2024-01-31|false|Trịnh Minh Tuấn|khactuan.ho18@yahoo.com|true|true
+Vương Khánh Duy|Chương Mỹ|Chúc Sơn|102 Ngõ Yên Thế|290|418|2024-01-31|true|Trịnh Minh Tuấn|khanhduy.vuong@gmail.com|false|true
+Phan Đức Kiên|Đông Anh|Nam Hồng|97 Đường Nguyễn Trung Trực|293|554|2024-01-31|true|Trịnh Minh Tuấn|7kuckien.phan56@hotmail.com|false|true
+Mai Xuân Minh|Hoài Đức|Minh Khai|132 Phố Nguyễn Văn Ngọc|359|367|2024-01-31|true|Trịnh Minh Tuấn|xuanminh.mai84@gmail.com|false|true
+Vương Phương Quế|Thường Tín|Tô Hiệu|180 Đường Đào Duy Tùng|189|415|2024-01-31|true|Trịnh Minh Tuấn|phuongque_vuong@yahoo.com|false|true
+Bùi Cao Sơn|Phú Xuyên|Sơn Hà|180 Hòa Bình|125|295|2024-01-31|true|Trịnh Minh Tuấn|caoson_bui74@yahoo.com|false|true
+Đoàn Tích Thiện|Phúc Thọ|Trạch Mỹ Lộc|135 Đường Vân Hà|289|344|2024-01-31|true|Trịnh Minh Tuấn|tichthien.7koan@gmail.com|false|true
+Phạm Hoa Tiên|Hà Đông|Dương Nội|191 Cổ Dương -Tiên Dương|195|458|2024-01-31|true|Trịnh Minh Tuấn|hoatien_pham76@hotmail.com|false|true
+Trịnh Phương Diễm|Chương Mỹ|Tiên Phương|114 Đường Liên Xã|299|634|2024-01-31|true|Trịnh Minh Tuấn|phuongdiem.trinh@hotmail.com|false|true
+Vương Hữu Vượng|Phúc Thọ|Ngọc Tảo|176 Ngõ 639 Hoàng Hoa Thám|341|354|2024-01-31|true|Trịnh Minh Tuấn|huuvuong.vuong1@gmail.com|false|true
+Nguyễn Tiến Võ|Đông Anh|Võng La|68 Ngõ 58 Đào Tấn|288|510|2024-01-31|true|Trịnh Minh Tuấn|tienvo_nguyen74@yahoo.com|false|true
+Vũ Nam Lộc|Ứng Hoà|Hoà Nam|125 Phố Vạn Bảo|367|563|2024-01-31|true|Trịnh Minh Tuấn|namloc.vu@gmail.com|false|true
+Phùng Đắc Lực|Hoài Đức|Cát Quế|112 Đường Đông Trù|228|403|2024-01-31|true|Trịnh Minh Tuấn|7kacluc.phung@yahoo.com|false|true
+Tăng Hạnh Trang|Phú Xuyên|Phượng Dực|105 Đường Cụt|231|294|2024-01-31|true|Trịnh Minh Tuấn|hanhtrang.tang@gmail.com|false|true
+Nguyễn Nhật Minh|Thạch Thất|Cẩm Yên|169 Phố Trịnh Hoài Đức|265|420|2024-01-31|true|Trịnh Minh Tuấn|nhatminh.nguyen@yahoo.com|false|true
+Vũ Uyển My|Thường Tín|Vân Tảo|208 Đường Uy Mỗ|248|493|2024-01-31|false|Trịnh Minh Tuấn|uyenmy.vu54@gmail.com|true|true
+Đào Kiều Thu|Sóc Sơn|Tân Minh|80 Phố Hàng Than|233|521|2024-01-31|false|Trịnh Minh Tuấn|kieuthu.7kao75@gmail.com|true|true
+Tô Vân Phi|Long Biên|Phúc Đồng|161 Ngọc Khánh|220|606|2024-01-31|true|Trịnh Minh Tuấn|vanphi_to67@yahoo.com|false|true
+Đỗ Khánh Vi|Nam Từ Liêm|Tây Mỗ|45 Nhị Khê|220|422|2024-01-31|true|Trịnh Minh Tuấn|khanhvi_7ko95@gmail.com|false|true
+Hà Khải Tuấn|Ứng Hoà|Hoà Phú|12 Phố Tôn Thất Thiệp|399|567|2024-01-31|true|Trịnh Minh Tuấn|khaituan_ha@hotmail.com|false|true
+Phạm Quang Đức|Mê Linh|Đại Thịnh|52 Liên Phương|348|615|2024-01-31|false|Trịnh Minh Tuấn|quang7kuc.pham34@hotmail.com|true|true
+Trịnh Bảo Huệ|Đống Đa|Khương Thượng|123 Phúc Xá|297|548|2024-01-31|true|Trịnh Minh Tuấn|baohue_trinh@gmail.com|false|true
+Hoàng Liên Hương|Đống Đa|Trung Phụng|33 Đường Lê Trọng Tấn|354|738|2024-01-31|false|Trịnh Minh Tuấn|lienhuong_hoang@gmail.com|true|true
+Lâm Hà Phương|Thanh Xuân|Phương Liệt|61 Đường Thôn Đìa-Nam Hồng|130|288|2024-01-31|true|Trịnh Minh Tuấn|haphuong_lam@yahoo.com|false|true
+Nguyễn Thiện Dũng|Mê Linh|Mê Linh|26 Phố Mai Anh Tuấn|311|548|2024-01-31|true|Trịnh Minh Tuấn|thiendung.nguyen70@yahoo.com|false|true
+Lâm Xuân Thái|Mê Linh|Tráng Việt|84 Đường Xóm Trại|256|532|2024-01-31|true|Trịnh Minh Tuấn|xuanthai.lam@hotmail.com|false|true
+Nguyễn Khánh Vân|Sơn Tây|Lê Lợi|161 Đường Kim Chung|316|410|2024-01-31|false|Trịnh Minh Tuấn|khanhvan.nguyen@hotmail.com|true|true
+Hoàng Thanh Ngân|Hà Đông|Mộ Lao|156 Đường Xuân Canh|321|406|2024-01-31|true|Trịnh Minh Tuấn|thanhngan.hoang@yahoo.com|false|true
+Trịnh Hữu Chiến|Gia Lâm|Yên Viên|150 Ngõ 103 Kim Mã|382|410|2024-01-31|true|Trịnh Minh Tuấn|huuchien.trinh14@gmail.com|false|true
+Vũ Thúy Hằng|Hà Đông|Yên Nghĩa|175 Khu tập thể A5|239|252|2024-01-31|true|Trịnh Minh Tuấn|thuyhang_vu@hotmail.com|false|true
+Phan Diễm Phương|Long Biên|Phúc Đồng|192 Phố Nam Tràng|337|526|2024-01-31|false|Trịnh Minh Tuấn|diemphuong_phan56@yahoo.com|true|true
+Phan Hồng Khuê|Quốc Oai|Thạch Thán|187 Đường Trần Phú|336|615|2024-01-31|true|Trịnh Minh Tuấn|hongkhue.phan40@gmail.com|false|true
+Đoàn Hữu Minh|Ba Đình|Đội Cấn|61 ngõ 535 Kim mã|153|219|2024-01-31|true|Trịnh Minh Tuấn|huuminh.7koan@hotmail.com|false|true
+Hà Từ Dung|Thanh Oai|Mỹ Hưng|117 Phố Núi Trúc|121|502|2024-01-31|true|Trịnh Minh Tuấn|tudung_ha23@gmail.com|false|true
+Phan Ngọc Phụng|Hoàng Mai|Hoàng Liệt|16 Quốc Lộ 1|171|494|2024-01-31|true|Trịnh Minh Tuấn|ngocphung.phan@gmail.com|false|true
+Mai Thanh Toản|Quốc Oai|Hoà Thạch|203 Đường Khu tập thể Thành Công|112|442|2024-01-31|true|Trịnh Minh Tuấn|thanhtoan_mai8@yahoo.com|false|true
+Nguyễn Thế An|Mê Linh|Hoàng Kim|122 Phường Quán Thánh|335|662|2024-01-31|false|Trịnh Minh Tuấn|thean_nguyen59@hotmail.com|true|true
+Lý Phúc Thịnh|Hai Bà Trưng|Thanh Lương|59 Phố Ga|306|628|2024-01-31|true|Trịnh Minh Tuấn|phucthinh.ly20@gmail.com|false|true
+Lê Minh Hỷ|Phúc Thọ|Phúc Thọ|12 Đường Sơn Đồng|139|242|2024-01-31|true|Trịnh Minh Tuấn|minhhy.le79@hotmail.com|false|true
+Hà Thế Lực|Hai Bà Trưng|Đồng Tâm|164 Xã Liên Hà|173|284|2024-01-31|true|Trịnh Minh Tuấn|theluc.ha75@hotmail.com|false|true
+Dương Quý Vĩnh|Đống Đa|Trung Phụng|137 Phố Đội Cấn|167|213|2024-01-31|true|Trịnh Minh Tuấn|quyvinh.duong60@gmail.com|false|true
+Mai Tuệ Mẫn|Nam Từ Liêm|Phương Canh|121 Đường Quốc lộ 23|288|479|2024-01-31|false|Trịnh Minh Tuấn|tueman_mai5@gmail.com|true|true
+Lý Thanh Hậu|Hoàn Kiếm|Hàng Gai|174 Phố Trần Tế Xương|300|402|2024-01-31|true|Trịnh Minh Tuấn|thanhhau.ly86@hotmail.com|false|true
+Hồ Quốc Việt|Sơn Tây|Quang Trung|136 Đường Đông Trù|399|456|2024-01-31|false|Trịnh Minh Tuấn|quocviet.ho84@yahoo.com|true|true
+Hoàng Phong Độ|Long Biên|Thượng Thanh|158 Ngõ Trúc Lạc|374|433|2024-01-31|false|Trịnh Minh Tuấn|phong7ko.hoang73@gmail.com|true|true
+Đặng Hà Phương|Đan Phượng|Hồng Hà|111 Lai Yên|106|301|2024-01-31|false|Trịnh Minh Tuấn|haphuong_7kang@yahoo.com|true|true
+Đoàn Chính Tâm|Cầu Giấy|Yên Hoà|134 Phố Ngũ Xã|288|673|2024-01-31|true|Trịnh Minh Tuấn|chinhtam.7koan25@yahoo.com|false|true
+Tăng Từ Ân|Hoàng Mai|Đại Kim|200 Đường KCN An Khánh|395|461|2024-01-31|true|Trịnh Minh Tuấn|tuan_tang@yahoo.com|false|true
+Hà Việt Nhân|Mê Linh|Quang Minh|26 Đường Quốc lộ 23B|251|524|2024-01-31|false|Trịnh Minh Tuấn|vietnhan.ha11@gmail.com|true|true
+Trương Tuấn Dũng|Quốc Oai|Cộng Hoà|129 Phố Văn Cao|183|282|2024-01-31|true|Trịnh Minh Tuấn|tuandung_truong54@gmail.com|false|true
+Vũ Đình Nguyên|Hoàng Mai|Định Công|46 Thái Hà|270|579|2024-01-31|true|Trịnh Minh Tuấn|7kinhnguyen.vu79@yahoo.com|false|true
+Lâm Như Bảo|Thường Tín|Dũng Tiến|177 Xã Xuân Nội|270|347|2024-01-31|true|Trịnh Minh Tuấn|nhubao.lam@hotmail.com|false|true
+Ngô Phượng Tiên|Phú Xuyên|Phú Túc|173 Ngõ 35 Kim Mã Thượng|174|418|2024-01-31|true|Trịnh Minh Tuấn|phuongtien_ngo@gmail.com|false|true
+Tô Dạ Yến|Thạch Thất|Tiến Xuân|21 Đường Khu Thượng|261|332|2024-01-31|false|Trịnh Minh Tuấn|dayen.to14@gmail.com|true|true
+Phan Kim Thịnh|Mê Linh|Thanh Lâm|131 Cách Bi|373|755|2024-01-31|true|Trịnh Minh Tuấn|kimthinh.phan14@yahoo.com|false|true
+Hoàng Minh Ân|Đống Đa|Thổ Quan|98 Xã Hải Bối|304|537|2024-01-31|true|Trịnh Minh Tuấn|minhan_hoang@yahoo.com|false|true
+Dương Kiên Lâm|Đống Đa|Hàng Bột|78 Đường Khu Thượng|293|295|2024-01-31|false|Trịnh Minh Tuấn|kienlam.duong@hotmail.com|true|true
+Trịnh Thanh Hiền|Sơn Tây|Trung Hưng|73 Đường Đông Trù|179|492|2024-01-31|false|Trịnh Minh Tuấn|thanhhien.trinh93@yahoo.com|true|true
+Đặng Lưu Ly|Sóc Sơn|Việt Long|174 Đường Kim Chung|382|770|2024-01-31|true|Trịnh Minh Tuấn|luuly.7kang21@gmail.com|false|true
+Hồ Huệ An|Ba Đình|Ngọc Khánh|154 Phố Kim Mã Thượng|364|658|2024-01-31|true|Trịnh Minh Tuấn|huean.ho@hotmail.com|false|true
+Phan Thượng Cường|Hoàng Mai|Định Công|119 Phố Nguyễn Công Hoan|170|406|2024-01-31|true|Trịnh Minh Tuấn|thuongcuong.phan@gmail.com|false|true
+Đặng Thế Vinh|Bắc Từ Liêm|Cổ Nhuế 2|121 Đường Quốc lộ 71|306|385|2024-01-31|true|Trịnh Minh Tuấn|thevinh.7kang@gmail.com|false|true
+Lê Thái Hòa|Chương Mỹ|Phú Nghĩa|144 Lý Nam Đế|317|341|2024-01-31|true|Trịnh Minh Tuấn|thaihoa.le18@hotmail.com|false|true
+Phan Đức Ân|Quốc Oai|Nghĩa Hương|16 Phố Tó|102|177|2024-01-31|true|Trịnh Minh Tuấn|7kucan_phan@hotmail.com|false|true
+Dương Huy Thành|Tây Hồ|Xuân La|174 Đường Đồng Dầu|272|518|2024-01-31|true|Trịnh Minh Tuấn|huythanh_duong@hotmail.com|false|true
+Bùi Kim Lan|Thanh Trì|Đông Mỹ|162 Đường Bộ Đầu-Vạn Điểm|278|580|2024-01-31|true|Trịnh Minh Tuấn|kimlan.bui46@hotmail.com|false|true
+Phùng Thu Oanh|Đống Đa|Kim Liên|117 Đường Quốc lộ 32|169|392|2024-01-31|true|Trịnh Minh Tuấn|thuoanh.phung@yahoo.com|false|true
+Trịnh Cẩm Thúy|Phú Xuyên|Hồng Minh|196 Đường Ngõ 16, Huỳnh Thúc Kháng|314|416|2024-01-31|true|Trịnh Minh Tuấn|camthuy.trinh@gmail.com|false|true
+Dương Thục Đào|Ba Vì|Châu Sơn|95 Vân Canh|315|485|2024-01-31|true|Trịnh Minh Tuấn|thuc7kao.duong23@hotmail.com|false|true
+Đinh Khuê Trung|Mỹ Đức|Lê Thanh|207 Tỉnh lộ 427|190|271|2024-01-31|true|Trịnh Minh Tuấn|khuetrung_7kinh@gmail.com|false|true
+Đinh Duy Khiêm|Cầu Giấy|Dịch Vọng Hậu|56 Sơn Đồng|159|246|2024-01-31|true|Trịnh Minh Tuấn|duykhiem_7kinh1@yahoo.com|false|true
+Đoàn Thống Nhất|Thanh Xuân|Thanh Xuân Bắc|108 Hòa Bình|266|421|2024-01-31|true|Trịnh Minh Tuấn|thongnhat.7koan8@gmail.com|false|true
+Trịnh Tuấn Hải|Ba Đình|Giảng Võ|68 Sơn Tây|214|502|2024-01-31|false|Trịnh Minh Tuấn|tuanhai_trinh51@yahoo.com|true|true
+Phạm Thế Doanh|Hà Đông|Quang Trung|55 Đường Cầu Đôi|361|680|2024-01-31|true|Trịnh Minh Tuấn|thedoanh.pham32@hotmail.com|false|true
+Phạm Thanh Thúy|Thanh Trì|Tứ Hiệp|16 Phố Mạc Đĩnh Chi|218|255|2024-01-31|true|Trịnh Minh Tuấn|thanhthuy.pham21@hotmail.com|false|true
+Trịnh Khánh Quyên|Đông Anh|Nguyên Khê|127 Ngõ 639 Hoàng Hoa Thám|323|553|2024-01-31|true|Trịnh Minh Tuấn|khanhquyen_trinh@gmail.com|false|true
+Trương Thành An|Tây Hồ|Quảng An|194 Đông La|310|524|2024-01-31|true|Trịnh Minh Tuấn|thanhan_truong@gmail.com|false|true
+Hồ Hữu Châu|Thanh Trì|Liên Ninh|186 Kim Chung|168|341|2024-01-31|true|Trịnh Minh Tuấn|huuchau.ho8@hotmail.com|false|true
+Lý Nhân Sâm|Long Biên|Phúc Lợi|182 Xã Kim Chung|235|235|2024-01-31|true|Trịnh Minh Tuấn|nhansam_ly50@yahoo.com|false|true
+Dương Ngọc Danh|Hoàn Kiếm|Hàng Mã|160 Quất Động|284|434|2024-01-31|true|Trịnh Minh Tuấn|ngocdanh_duong@hotmail.com|false|true
+Bùi Trúc Mai|Thường Tín|Quất Động|121 Phố Trúc Bạch|268|621|2024-01-31|true|Trịnh Minh Tuấn|trucmai_bui94@hotmail.com|false|true
+Dương Thụy Nương|Ba Vì|Tây Đằng|87 Cách Bi|215|438|2024-01-31|true|Trịnh Minh Tuấn|thuynuong.duong98@gmail.com|false|true
+Đặng Quỳnh Sa|Ba Vì|Chu Minh|202 Nam Đồng|301|401|2024-01-31|true|Trịnh Minh Tuấn|quynhsa_7kang75@gmail.com|false|true
+Hoàng Ngọc Khương|Đan Phượng|Phùng|183 Văn Tự|127|298|2024-01-31|true|Trịnh Minh Tuấn|ngockhuong_hoang@hotmail.com|false|true
+Đinh Tiểu Bảo|Hoàng Mai|Tân Mai|69 Đống Đa|293|466|2024-01-31|true|Trịnh Minh Tuấn|tieubao_7kinh0@gmail.com|false|true
+Hồ Tường Vân|Hà Đông|Phú Lãm|91 Ngõ 639 Hoàng Hoa Thám|222|540|2024-01-31|false|Trịnh Minh Tuấn|tuongvan_ho@hotmail.com|true|true
+Trịnh Anh Phương|Nam Từ Liêm|Tây Mỗ|176 Phố Nam Cao|340|360|2024-01-31|true|Trịnh Minh Tuấn|anhphuong.trinh8@gmail.com|false|true
+Trịnh Nghi Xuân|Thạch Thất|Tân Xã|38 Đường Lâm Tiên|349|572|2024-01-31|false|Trịnh Minh Tuấn|nghixuan_trinh73@hotmail.com|true|true
+Tô Hồng Lĩnh|Hà Đông|Kiến Hưng|28 Đường Nguyễn Chí Thanh|197|472|2024-01-31|true|Trịnh Minh Tuấn|honglinh_to6@gmail.com|false|true
+Dương An Hằng|Ba Vì|Vân Hoà|127 Đường Quốc Lộ 5|110|323|2024-01-31|false|Trịnh Minh Tuấn|anhang_duong62@hotmail.com|true|true
+Hồ Xuân Liễu|Ứng Hoà|Trường Thịnh|186 Cửa Đông|156|277|2024-01-31|true|Trịnh Minh Tuấn|xuanlieu_ho73@hotmail.com|false|true
+Lê Triển Sinh|Nam Từ Liêm|Trung Văn|159 Đường Cổng Vĩnh|312|412|2024-01-31|true|Trịnh Minh Tuấn|triensinh.le85@gmail.com|false|true
+Phạm Tâm Thanh|Hoàn Kiếm|Phúc Tân|23 Phố Ga|211|280|2024-01-31|true|Trịnh Minh Tuấn|tamthanh_pham@hotmail.com|false|true
+Ngô Hiếu Hạnh|Ba Vì|Tiên Phong|69 Ngõ 31 Nguyễn Chí Thanh|114|385|2024-01-31|true|Trịnh Minh Tuấn|hieuhanh_ngo42@gmail.com|false|true
+Bùi Thanh Tịnh|Hoàng Mai|Hoàng Văn Thụ|51 Vân Côn|292|520|2024-01-31|true|Trịnh Minh Tuấn|thanhtinh.bui15@yahoo.com|false|true
+Hoàng Giáng Tiên|Ba Vì|Cẩm Lĩnh|126 Đường Cụt|356|641|2024-01-31|true|Trịnh Minh Tuấn|giangtien_hoang@yahoo.com|false|true
+Vũ Anh Minh|Ba Vì|Tây Đằng|120 Đường Láng Hạ|357|500|2024-01-31|true|Trịnh Minh Tuấn|anhminh_vu72@hotmail.com|false|true
+Vũ Tâm Hằng|Hoài Đức|Minh Khai|47 Đường Trúc Bạch|183|281|2024-01-31|false|Trịnh Minh Tuấn|tamhang_vu96@gmail.com|true|true
+Hoàng Thanh Dân|Mỹ Đức|Phúc Lâm|144 Xã Xuân Canh|328|720|2024-01-31|true|Trịnh Minh Tuấn|thanhdan.hoang@gmail.com|false|true
+Hà Tuyết Vân|Quốc Oai|Sài Sơn|158 Phố Nguyễn Khắc Nhu|347|504|2024-01-31|true|Trịnh Minh Tuấn|tuyetvan_ha70@gmail.com|false|true
+Đỗ Hữu Tân|Thường Tín|Chương Dương|188 Lý Nam Đế|197|369|2024-01-31|true|Trịnh Minh Tuấn|huutan.7ko@hotmail.com|false|true
+Trịnh Vân Quỳnh|Mỹ Đức|Phùng Xá|32 Ngọc Hà|119|157|2024-01-31|true|Trịnh Minh Tuấn|vanquynh_trinh@hotmail.com|false|true
+Vũ Đức Phong|Phúc Thọ|Vân Nam|140 Đường Phúc Diễn|274|518|2024-01-31|true|Trịnh Minh Tuấn|7kucphong_vu@hotmail.com|false|true
+Đoàn Mạnh Cương|Tây Hồ|Quảng An|50 Đường Thôn Đìa-Nam Hồng|158|402|2024-01-31|true|Trịnh Minh Tuấn|manhcuong.7koan39@gmail.com|false|true
+Đào Quỳnh Trang|Thường Tín|Văn Phú|110 Phố Lê Hồng Phong|289|404|2024-01-31|false|Trịnh Minh Tuấn|quynhtrang.7kao85@yahoo.com|true|true
+Mai Gia Thịnh|Chương Mỹ|Trung Hoà|205 Đường Khúc Hạo|235|326|2024-01-31|false|Trịnh Minh Tuấn|giathinh.mai10@gmail.com|true|true
+Ngô Khánh Giang|Sóc Sơn|Thanh Xuân|108 Đường Nguyễn Thái Học|375|682|2024-01-31|true|Trịnh Minh Tuấn|khanhgiang.ngo20@yahoo.com|false|true
+Vương Quỳnh Như|Cầu Giấy|Nghĩa Tân|78 Đường |144|540|2024-01-31|true|Trịnh Minh Tuấn|quynhnhu_vuong@yahoo.com|false|true
+Bùi Hải Sinh|Ba Vì|Ba Vì|191 Đường Dục Tú|398|505|2024-01-31|true|Trịnh Minh Tuấn|haisinh.bui78@yahoo.com|false|true
+Mai Ngọc Lân|Gia Lâm|Lệ Chi|144 Đường Hoàng Diệu|375|625|2024-01-31|true|Trịnh Minh Tuấn|ngoclan_mai59@gmail.com|false|true
+Phạm Ngọc Khánh|Long Biên|Đức Giang|160 Phố Hòe Nhai|375|452|2024-01-31|false|Trịnh Minh Tuấn|ngockhanh_pham@yahoo.com|true|true
+Vương Kim Phú|Ba Đình|Nguyễn Trung Trực|107 Phố Đội Cấn|236|622|2024-01-31|false|Trịnh Minh Tuấn|kimphu_vuong69@gmail.com|true|true
+Phan Xuân Cao|Ứng Hoà|Phương Tú|42 Phố Kênh Giữa|213|395|2024-01-31|false|Trịnh Minh Tuấn|xuancao.phan@hotmail.com|true|true
+Đỗ Vĩnh Ân|Thanh Oai|Hồng Dương|65 Đường Đại Mạch|391|419|2024-01-31|true|Trịnh Minh Tuấn|vinhan.7ko84@yahoo.com|false|true
+Dương Hoàng Ân|Cầu Giấy|Nghĩa Đô|122 Phố Hồng Phúc|102|465|2024-01-31|true|Trịnh Minh Tuấn|hoangan_duong@hotmail.com|false|true
+Nguyễn Mai Phương|Quốc Oai|Cộng Hoà|109 Phố Nguyễn Công Hoan|197|250|2024-01-31|false|Trịnh Minh Tuấn|maiphuong.nguyen90@yahoo.com|true|true
+Đỗ Hữu Trác|Thường Tín|Nghiêm Xuyên|165 Ngõ Hàng Bột|169|211|2024-01-31|true|Trịnh Minh Tuấn|huutrac_7ko@hotmail.com|false|true
+Lê Ánh Thơ|Tây Hồ|Phú Thượng|191 Đường Nguyễn Chí Thanh|350|555|2024-01-31|false|Trịnh Minh Tuấn|anhtho.le91@hotmail.com|true|true
+Ngô Kiều Dung|Ba Đình|Giảng Võ|98 Đường đi Dương Liễu|374|543|2024-01-31|true|Trịnh Minh Tuấn|kieudung_ngo@gmail.com|false|true
+Nguyễn Phượng Long|Đan Phượng|Liên Hà|34 Đường Nghĩa Vũ|295|612|2024-01-31|true|Trịnh Minh Tuấn|phuonglong.nguyen@hotmail.com|false|true
+Lê Lâm Tuyền|Sóc Sơn|Nam Sơn|194 Đường Đồng Quan|294|656|2024-01-31|true|Trịnh Minh Tuấn|lamtuyen.le@hotmail.com|false|true
+Nguyễn Ánh Linh|Thạch Thất|Yên Trung|203 Hà Hồi|208|560|2024-01-31|true|Trịnh Minh Tuấn|anhlinh_nguyen99@hotmail.com|false|true
+Bùi Bích Hà|Tây Hồ|Phú Thượng|135 Đại Lộ Thăng Long|186|372|2024-01-31|true|Trịnh Minh Tuấn|bichha.bui@yahoo.com|false|true
+Phan Kim Thông|Hai Bà Trưng|Bách Khoa|17 ngõ 535 Kim mã|359|733|2024-01-31|true|Trịnh Minh Tuấn|kimthong.phan43@yahoo.com|false|true
+Phan Trọng Chính|Tây Hồ|Quảng An|35 Phố Giang Văn Minh|263|643|2024-01-31|true|Trịnh Minh Tuấn|trongchinh.phan45@gmail.com|false|true
+Trịnh Kim Phú|Thanh Xuân|Khương Mai|144 Lai Yên|355|482|2024-01-31|false|Trịnh Minh Tuấn|kimphu.trinh@gmail.com|true|true
+Nguyễn Thy Khanh|Hai Bà Trưng|Thanh Nhàn|105 Đường Nguyễn Chí Thanh|355|456|2024-01-31|true|Trịnh Minh Tuấn|thykhanh_nguyen@yahoo.com|false|true
+Trần Bích Thoa|Hoàn Kiếm|Tràng Tiền|20 Đường Cầu Binh|110|396|2024-01-31|true|Trịnh Minh Tuấn|bichthoa_tran@yahoo.com|false|true
+Lê Bảo Chấn|Mê Linh|Đại Thịnh|55 Tô Hiệu|269|507|2024-01-31|true|Trịnh Minh Tuấn|baochan.le34@yahoo.com|false|true
+Đinh Kiều Khanh|Thanh Trì|Thanh Liệt|189 Đường Cầu Binh|215|341|2024-01-31|true|Trịnh Minh Tuấn|kieukhanh_7kinh13@yahoo.com|false|true
+Lê Phương Thể|Sơn Tây|Ngô Quyền|27 Phố Kim Mã|271|414|2024-01-31|true|Trịnh Minh Tuấn|phuongthe.le13@yahoo.com|false|true
+Hoàng Trọng Trí|Đan Phượng|Hạ Mỗ|186 Phố Sơn Tây|328|521|2024-01-31|true|Trịnh Minh Tuấn|trongtri_hoang@gmail.com|false|true
+Phan Bảo Huỳnh|Hoàng Mai|Tân Mai|167 Lương Nỗ|212|552|2024-01-31|true|Trịnh Minh Tuấn|baohuynh_phan@gmail.com|false|true
+Tô Chí Công|Thạch Thất|Thạch Hoà|123 Đường Núi Đôi|189|545|2024-01-31|true|Trịnh Minh Tuấn|chicong.to@gmail.com|false|true
+Đoàn Nghị Quyền|Ba Đình|Liễu Giai|25 Ngõ 103 Kim Mã|162|423|2024-01-31|true|Trịnh Minh Tuấn|nghiquyen_7koan19@yahoo.com|false|true
+Trương Thu Thảo|Cầu Giấy|Dịch Vọng|176 AH 1|338|656|2024-01-31|true|Trịnh Minh Tuấn|thuthao.truong48@gmail.com|false|true
+Mai Như Trân|Gia Lâm|Ninh Hiệp|11 Đường Nguyễn Thái Học|356|562|2024-01-31|true|Trịnh Minh Tuấn|nhutran.mai@yahoo.com|false|true
+Đặng Công Phụng|Tây Hồ|Quảng An|112 Đường Thượng Thụy|394|556|2024-01-31|true|Trịnh Minh Tuấn|congphung_7kang61@hotmail.com|false|true
+Lê Phương Nghi|Hoàng Mai|Giáp Bát|151 Ngõ Trúc Lạc|254|472|2024-01-31|true|Trịnh Minh Tuấn|phuongnghi_le77@hotmail.com|false|true
+Đào Công Bằng|Hoàn Kiếm|Hàng Trống|115 Đường Cầu Đôi|162|268|2024-01-31|true|Trịnh Minh Tuấn|congbang_7kao@hotmail.com|false|true
+Đinh Bạch Yến|Thường Tín|Văn Phú|34 Xã Thụy Lâm|297|421|2024-01-31|true|Trịnh Minh Tuấn|bachyen.7kinh@hotmail.com|false|true
+Hoàng Như Hoa|Hà Đông|Vạn Phúc|144 Hiền Giang|129|478|2024-01-31|true|Trịnh Minh Tuấn|nhuhoa.hoang46@hotmail.com|false|true
+Đào Chí Công|Hai Bà Trưng|Minh Khai|61 Tổ 36|217|289|2024-01-31|true|Trịnh Minh Tuấn|chicong.7kao@gmail.com|false|true
+Mai Phương Nam|Nam Từ Liêm|Phương Canh|130 Ngõ 102 A3 Núi Trúc|308|433|2024-01-31|true|Trịnh Minh Tuấn|phuongnam.mai29@yahoo.com|false|true
+Trần Phương Yến|Nam Từ Liêm|Cầu Diễn|36 Phố Trần Tế Xương|117|399|2024-01-31|true|Trịnh Minh Tuấn|phuongyen_tran71@hotmail.com|false|true
+Phùng Lê Quỳnh|Thanh Xuân|Khương Mai|188 Phố Núi Trúc|392|644|2024-01-31|true|Trịnh Minh Tuấn|lequynh_phung83@hotmail.com|false|true
+Đào Thế Vinh|Sơn Tây|Thanh Mỹ|74 Thành Công|324|433|2024-01-31|true|Trịnh Minh Tuấn|thevinh_7kao@hotmail.com|false|true
+Hà Duy Thông|Đống Đa|Ô Chợ Dừa|175 Đường Mai Hiên|109|427|2024-01-31|true|Trịnh Minh Tuấn|duythong_ha37@yahoo.com|false|true
+Phùng Hữu Từ|Tây Hồ|Phú Thượng|55 Thị trấn Trạm Trôi|293|600|2024-01-31|true|Trịnh Minh Tuấn|huutu_phung69@hotmail.com|false|true
+Đào Minh Nhật|Ba Vì|Vạn Thắng|104 Đường Nguyễn Thái Học|485|515|2024-02-29|true|Trịnh Minh Tuấn|minhnhat_7kao18@hotmail.com|false|true
+Tô Xuân Hoa|Sơn Tây|Lê Lợi|61 Thái Hà|656|656|2024-02-29|false|Trịnh Minh Tuấn|xuanhoa_to81@gmail.com|true|false
+Vương Khải Hà|Sóc Sơn|Mai Đình|143 Xã Tàm Xá|496|613|2024-02-29|true|Trịnh Minh Tuấn|khaiha_vuong87@yahoo.com|false|true
+Lâm Huân Võ|Thanh Trì|Vĩnh Quỳnh|147 Đê La Thành|480|620|2024-02-29|true|Trịnh Minh Tuấn|huanvo.lam@yahoo.com|false|true
+Vũ Ngọc Ly|Chương Mỹ|Phú Nghĩa|21 Vân Côn|488|596|2024-02-29|true|Trịnh Minh Tuấn|ngocly.vu73@hotmail.com|false|true
+Vương Bình Thuận|Đông Anh|Xuân Nộn|196 Dương Liễu|211|368|2024-02-29|false|Trịnh Minh Tuấn|binhthuan_vuong@yahoo.com|true|true
+Trương Kim Thu|Đan Phượng|Thọ Xuân|69 Đường Nguyễn Thái Học|532|831|2024-02-29|false|Trịnh Minh Tuấn|kimthu_truong@gmail.com|true|true
+Đào Gia Huấn|Mê Linh|Hoàng Kim|182 Ngõ 173 Hoàng Hoa Thám|635|776|2024-02-29|true|Trịnh Minh Tuấn|giahuan.7kao72@hotmail.com|false|true
+Hà Anh Đức|Quốc Oai|Liệp Tuyết|20 Đường Hoàng Diệu|525|874|2024-02-29|true|Trịnh Minh Tuấn|anh7kuc_ha64@hotmail.com|false|true
+Phùng Lâm Vũ|Cầu Giấy|Dịch Vọng|196 Đường Cầu Đôi|466|651|2024-02-29|true|Trịnh Minh Tuấn|lamvu.phung66@yahoo.com|false|true
+Hà Hà Thanh|Thanh Xuân|Kim Giang|96 Vạn Điểm|432|645|2024-02-29|true|Trịnh Minh Tuấn|hathanh_ha@gmail.com|false|true
+Phan Quỳnh Hương|Sơn Tây|Xuân Sơn|27 Yên Sở|369|527|2024-02-29|true|Trịnh Minh Tuấn|quynhhuong.phan54@hotmail.com|false|true
+Đoàn Trang Anh|Quốc Oai|Cấn Hữu|154 Đường Cơ Xá|553|641|2024-02-29|true|Trịnh Minh Tuấn|tranganh_7koan59@hotmail.com|false|true
+Đặng Thanh Hường|Thanh Oai|Dân Hoà|172 Ninh Sở|308|379|2024-02-29|true|Trịnh Minh Tuấn|thanhhuong_7kang28@hotmail.com|false|true
+Lâm Lệ Băng|Thường Tín|Hoà Bình|159 Đường Quốc Lộ 5|541|839|2024-02-29|false|Trịnh Minh Tuấn|lebang.lam88@gmail.com|true|true
+Mai Thiên Tuyền|Thạch Thất|Thạch Xá|146 Đường Bắc Thăng Long-Hải Bối|355|441|2024-02-29|true|Trịnh Minh Tuấn|thientuyen_mai@yahoo.com|false|true
+Hà Việt Hồng|Ứng Hoà|Đồng Tiến|131 Đường Nghĩa Vũ|307|492|2024-02-29|true|Trịnh Minh Tuấn|viethong.ha@hotmail.com|false|true
+Lê Quốc Quân|Sơn Tây|Trung Hưng|10 Phố Thanh Bảo|508|508|2024-02-29|false|Trịnh Minh Tuấn|quocquan_le@gmail.com|true|false
+Hồ Anh Thi|Sơn Tây|Phú Thịnh|118 Ngọc Hà|534|732|2024-02-29|true|Trịnh Minh Tuấn|anhthi_ho@hotmail.com|false|true
+Trần Thiện Ân|Thường Tín|Văn Tự|45 Ngõ 138 Ngọc Hà|371|721|2024-02-29|false|Trịnh Minh Tuấn|thienan.tran@hotmail.com|true|true
+Đinh Tường Chinh|Đan Phượng|Đồng Tháp|109 Ngõ 138 Ngọc Hà|356|481|2024-02-29|true|Trịnh Minh Tuấn|tuongchinh.7kinh@yahoo.com|false|true
+Hoàng Thượng Cường|Tây Hồ|Thụy Khuê|11 Phố Đốc Ngữ|430|718|2024-02-29|false|Trịnh Minh Tuấn|thuongcuong.hoang@hotmail.com|true|true
+Đào Diễm Khuê|Long Biên|Gia Thụy|197 Phường Cấn|337|694|2024-02-29|false|Trịnh Minh Tuấn|diemkhue_7kao@yahoo.com|true|true
+Vương Xuân Yến|Phú Xuyên|Quang Lãng|85 Đường Núi Đôi|464|683|2024-02-29|true|Trịnh Minh Tuấn|xuanyen_vuong82@hotmail.com|false|true
+Đặng Quốc Văn|Đông Anh|Nam Hồng|77 Cách Bi|649|649|2024-02-29|false|Trịnh Minh Tuấn|quocvan_7kang37@gmail.com|true|false
+Vương Bích Thủy|Chương Mỹ|Hữu Văn|39 Đường Quốc Lộ 1|485|698|2024-02-29|false|Trịnh Minh Tuấn|bichthuy.vuong@hotmail.com|true|true
+Phùng Nguyệt Ánh|Bắc Từ Liêm|Đức Thắng|177 Chùa Láng|439|609|2024-02-29|true|Trịnh Minh Tuấn|nguyetanh_phung89@hotmail.com|false|true
+Bùi Tuyết Trầm|Đan Phượng|Đan Phượng|82 Đường 9|263|644|2024-02-29|true|Trịnh Minh Tuấn|tuyettram.bui@gmail.com|false|true
+Lê Hồng Lĩnh|Tây Hồ|Xuân La|128 Đường Đồng Dầu|402|771|2024-02-29|true|Trịnh Minh Tuấn|honglinh.le@yahoo.com|false|true
+Đinh Quốc Hoài|Đan Phượng|Tân Hội|83 Đường Cống Bi|557|935|2024-02-29|true|Trịnh Minh Tuấn|quochoai.7kinh@yahoo.com|false|true
+Nguyễn Vũ Anh|Đông Anh|Vân Nội|71 Đường Quán Thánh|203|442|2024-02-29|true|Trịnh Minh Tuấn|vuanh.nguyen@yahoo.com|false|true
+Hồ Tường Lĩnh|Đan Phượng|Trung Châu|209 Đường Phương Trạch|459|656|2024-02-29|true|Trịnh Minh Tuấn|tuonglinh_ho11@hotmail.com|false|true
+Đặng Ngọc Lâm|Phúc Thọ|Tam Hiệp|88 Phố Lê Hồng Phong|325|625|2024-02-29|true|Trịnh Minh Tuấn|ngoclam.7kang20@yahoo.com|false|true
+Vũ Sơn Tuyền|Gia Lâm|Trung Mầu|95 Ngõ 376 đường Bưởi|596|819|2024-02-29|true|Trịnh Minh Tuấn|sontuyen_vu86@hotmail.com|false|true
+Nguyễn Trọng Trí|Hai Bà Trưng|Cầu Dền|21 Đường Nguyễn Chí Thanh|224|224|2024-02-29|false|Trịnh Minh Tuấn|trongtri.nguyen77@hotmail.com|true|false
+Hồ Mạnh Tấn|Mê Linh|Thanh Lâm|99 Ninh Sở|300|488|2024-02-29|true|Trịnh Minh Tuấn|manhtan.ho93@yahoo.com|false|true
+Phạm Tuấn Khải|Long Biên|Thạch Bàn|156 Di Trạch|588|777|2024-02-29|true|Trịnh Minh Tuấn|tuankhai_pham91@gmail.com|false|true
+Hoàng Mỹ Kiều|Hai Bà Trưng|Lê Đại Hành|197 Phố Chùa Một Cột|425|561|2024-02-29|true|Trịnh Minh Tuấn|mykieu.hoang37@yahoo.com|false|true
+Lê Sao Mai|Quốc Oai|Quốc Oai|143 Ngõ 376 đường Bưởi|398|730|2024-02-29|true|Trịnh Minh Tuấn|saomai.le10@hotmail.com|false|true
+Hà Đức Sinh|Cầu Giấy|Mai Dịch|126 Ngõ Ngọc Hà|248|384|2024-02-29|true|Trịnh Minh Tuấn|7kucsinh.ha@hotmail.com|false|true
+Ngô Quế Linh|Hai Bà Trưng|Lê Đại Hành|133 An Dương|457|457|2024-02-29|false|Trịnh Minh Tuấn|quelinh_ngo@hotmail.com|true|false
+Nguyễn Yến Trinh|Phú Xuyên|Phúc Tiến|78 Đường Đào Cam Mộc|406|783|2024-02-29|true|Trịnh Minh Tuấn|yentrinh_nguyen@hotmail.com|false|true
+Vũ Minh Hoàng|Đống Đa|Trung Liệt|14 Đường Xuân Canh|200|251|2024-02-29|false|Trịnh Minh Tuấn|minhhoang.vu17@yahoo.com|true|true
+Dương Hoàng Dũng|Long Biên|Phúc Lợi|52 Đường Nguyễn Chí Thanh|643|657|2024-02-29|true|Trịnh Minh Tuấn|hoangdung.duong3@gmail.com|false|true
+Vũ Thông Minh|Phúc Thọ|Xuân Đình|194 Đường Bờ Hồ|604|842|2024-02-29|true|Trịnh Minh Tuấn|thongminh.vu33@hotmail.com|false|true
+Mai Ngân Trúc|Mê Linh|Kim Hoa|85 Vân Canh|235|614|2024-02-29|true|Trịnh Minh Tuấn|ngantruc.mai@gmail.com|false|true
+Phạm Kim Phượng|Hoàn Kiếm|Hàng Bạc|68 Đường Nguyễn Thái Học|547|571|2024-02-29|true|Trịnh Minh Tuấn|kimphuong.pham@yahoo.com|false|true
+Đặng Bích Hiền|Sóc Sơn|Bắc Sơn|105 Phố Yên Ninh|413|604|2024-02-29|true|Trịnh Minh Tuấn|bichhien.7kang@gmail.com|false|true
+Lê Lệ Chi|Phú Xuyên|Vân Từ|205 Đường Thanh Báo|413|475|2024-02-29|true|Trịnh Minh Tuấn|lechi.le@hotmail.com|false|true
+Lâm Tuyết Lâm|Mỹ Đức|Hợp Thanh|47 Đường Nguyễn Thái Học|500|760|2024-02-29|true|Trịnh Minh Tuấn|tuyetlam.lam57@gmail.com|false|true
+Đặng Lâm Tuyền|Ba Vì|Tản Hồng|12 Xã Nguyên Khê|591|591|2024-02-29|false|Trịnh Minh Tuấn|lamtuyen.7kang@gmail.com|true|false
+Hồ Khắc Tuấn|Phúc Thọ|Hiệp Thuận|139 Phố Tôn Thất Thiệp|637|637|2024-02-29|false|Trịnh Minh Tuấn|khactuan.ho18@yahoo.com|true|false
+Vương Khánh Duy|Chương Mỹ|Chúc Sơn|102 Ngõ Yên Thế|419|729|2024-02-29|true|Trịnh Minh Tuấn|khanhduy.vuong@gmail.com|false|true
+Phan Đức Kiên|Đông Anh|Nam Hồng|97 Đường Nguyễn Trung Trực|555|824|2024-02-29|true|Trịnh Minh Tuấn|7kuckien.phan56@hotmail.com|false|true
+Mai Xuân Minh|Hoài Đức|Minh Khai|132 Phố Nguyễn Văn Ngọc|368|724|2024-02-29|true|Trịnh Minh Tuấn|xuanminh.mai84@gmail.com|false|true
+Vương Phương Quế|Thường Tín|Tô Hiệu|180 Đường Đào Duy Tùng|416|706|2024-02-29|true|Trịnh Minh Tuấn|phuongque_vuong@yahoo.com|false|true
+Bùi Cao Sơn|Phú Xuyên|Sơn Hà|180 Hòa Bình|296|301|2024-02-29|true|Trịnh Minh Tuấn|caoson_bui74@yahoo.com|false|true
+Đoàn Tích Thiện|Phúc Thọ|Trạch Mỹ Lộc|135 Đường Vân Hà|345|660|2024-02-29|true|Trịnh Minh Tuấn|tichthien.7koan@gmail.com|false|true
+Phạm Hoa Tiên|Hà Đông|Dương Nội|191 Cổ Dương -Tiên Dương|459|645|2024-02-29|true|Trịnh Minh Tuấn|hoatien_pham76@hotmail.com|false|true
+Trịnh Phương Diễm|Chương Mỹ|Tiên Phương|114 Đường Liên Xã|635|794|2024-02-29|true|Trịnh Minh Tuấn|phuongdiem.trinh@hotmail.com|false|true
+Vương Hữu Vượng|Phúc Thọ|Ngọc Tảo|176 Ngõ 639 Hoàng Hoa Thám|355|743|2024-02-29|false|Trịnh Minh Tuấn|huuvuong.vuong1@gmail.com|true|true
+Nguyễn Tiến Võ|Đông Anh|Võng La|68 Ngõ 58 Đào Tấn|511|779|2024-02-29|true|Trịnh Minh Tuấn|tienvo_nguyen74@yahoo.com|false|true
+Vũ Nam Lộc|Ứng Hoà|Hoà Nam|125 Phố Vạn Bảo|564|648|2024-02-29|false|Trịnh Minh Tuấn|namloc.vu@gmail.com|true|true
+Phùng Đắc Lực|Hoài Đức|Cát Quế|112 Đường Đông Trù|404|572|2024-02-29|true|Trịnh Minh Tuấn|7kacluc.phung@yahoo.com|false|true
+Tăng Hạnh Trang|Phú Xuyên|Phượng Dực|105 Đường Cụt|295|389|2024-02-29|true|Trịnh Minh Tuấn|hanhtrang.tang@gmail.com|false|true
+Nguyễn Nhật Minh|Thạch Thất|Cẩm Yên|169 Phố Trịnh Hoài Đức|421|787|2024-02-29|true|Trịnh Minh Tuấn|nhatminh.nguyen@yahoo.com|false|true
+Vũ Uyển My|Thường Tín|Vân Tảo|208 Đường Uy Mỗ|493|493|2024-02-29|false|Trịnh Minh Tuấn|uyenmy.vu54@gmail.com|true|false
+Đào Kiều Thu|Sóc Sơn|Tân Minh|80 Phố Hàng Than|521|521|2024-02-29|false|Trịnh Minh Tuấn|kieuthu.7kao75@gmail.com|true|false
+Tô Vân Phi|Long Biên|Phúc Đồng|161 Ngọc Khánh|607|982|2024-02-29|true|Trịnh Minh Tuấn|vanphi_to67@yahoo.com|false|true
+Đỗ Khánh Vi|Nam Từ Liêm|Tây Mỗ|45 Nhị Khê|423|731|2024-02-29|true|Trịnh Minh Tuấn|khanhvi_7ko95@gmail.com|false|true
+Hà Khải Tuấn|Ứng Hoà|Hoà Phú|12 Phố Tôn Thất Thiệp|568|717|2024-02-29|false|Trịnh Minh Tuấn|khaituan_ha@hotmail.com|true|true
+Phạm Quang Đức|Mê Linh|Đại Thịnh|52 Liên Phương|615|615|2024-02-29|false|Trịnh Minh Tuấn|quang7kuc.pham34@hotmail.com|true|false
+Trịnh Bảo Huệ|Đống Đa|Khương Thượng|123 Phúc Xá|549|944|2024-02-29|true|Trịnh Minh Tuấn|baohue_trinh@gmail.com|false|true
+Hoàng Liên Hương|Đống Đa|Trung Phụng|33 Đường Lê Trọng Tấn|738|738|2024-02-29|false|Trịnh Minh Tuấn|lienhuong_hoang@gmail.com|true|false
+Lâm Hà Phương|Thanh Xuân|Phương Liệt|61 Đường Thôn Đìa-Nam Hồng|289|429|2024-02-29|true|Trịnh Minh Tuấn|haphuong_lam@yahoo.com|false|true
+Nguyễn Thiện Dũng|Mê Linh|Mê Linh|26 Phố Mai Anh Tuấn|549|562|2024-02-29|true|Trịnh Minh Tuấn|thiendung.nguyen70@yahoo.com|false|true
+Lâm Xuân Thái|Mê Linh|Tráng Việt|84 Đường Xóm Trại|533|888|2024-02-29|true|Trịnh Minh Tuấn|xuanthai.lam@hotmail.com|false|true
+Nguyễn Khánh Vân|Sơn Tây|Lê Lợi|161 Đường Kim Chung|410|410|2024-02-29|false|Trịnh Minh Tuấn|khanhvan.nguyen@hotmail.com|true|false
+Hoàng Thanh Ngân|Hà Đông|Mộ Lao|156 Đường Xuân Canh|407|513|2024-02-29|true|Trịnh Minh Tuấn|thanhngan.hoang@yahoo.com|false|true
+Trịnh Hữu Chiến|Gia Lâm|Yên Viên|150 Ngõ 103 Kim Mã|411|713|2024-02-29|true|Trịnh Minh Tuấn|huuchien.trinh14@gmail.com|false|true
+Vũ Thúy Hằng|Hà Đông|Yên Nghĩa|175 Khu tập thể A5|253|468|2024-02-29|false|Trịnh Minh Tuấn|thuyhang_vu@hotmail.com|true|true
+Phan Diễm Phương|Long Biên|Phúc Đồng|192 Phố Nam Tràng|526|526|2024-02-29|false|Trịnh Minh Tuấn|diemphuong_phan56@yahoo.com|true|false
+Phan Hồng Khuê|Quốc Oai|Thạch Thán|187 Đường Trần Phú|616|828|2024-02-29|true|Trịnh Minh Tuấn|hongkhue.phan40@gmail.com|false|true
+Đoàn Hữu Minh|Ba Đình|Đội Cấn|61 ngõ 535 Kim mã|220|429|2024-02-29|true|Trịnh Minh Tuấn|huuminh.7koan@hotmail.com|false|true
+Hà Từ Dung|Thanh Oai|Mỹ Hưng|117 Phố Núi Trúc|503|798|2024-02-29|true|Trịnh Minh Tuấn|tudung_ha23@gmail.com|false|true
+Phan Ngọc Phụng|Hoàng Mai|Hoàng Liệt|16 Quốc Lộ 1|495|647|2024-02-29|false|Trịnh Minh Tuấn|ngocphung.phan@gmail.com|true|true
+Mai Thanh Toản|Quốc Oai|Hoà Thạch|203 Đường Khu tập thể Thành Công|443|810|2024-02-29|true|Trịnh Minh Tuấn|thanhtoan_mai8@yahoo.com|false|true
+Nguyễn Thế An|Mê Linh|Hoàng Kim|122 Phường Quán Thánh|662|662|2024-02-29|false|Trịnh Minh Tuấn|thean_nguyen59@hotmail.com|true|false
+Lý Phúc Thịnh|Hai Bà Trưng|Thanh Lương|59 Phố Ga|629|687|2024-02-29|true|Trịnh Minh Tuấn|phucthinh.ly20@gmail.com|false|true
+Lê Minh Hỷ|Phúc Thọ|Phúc Thọ|12 Đường Sơn Đồng|243|321|2024-02-29|true|Trịnh Minh Tuấn|minhhy.le79@hotmail.com|false|true
+Hà Thế Lực|Hai Bà Trưng|Đồng Tâm|164 Xã Liên Hà|285|631|2024-02-29|false|Trịnh Minh Tuấn|theluc.ha75@hotmail.com|true|true
+Dương Quý Vĩnh|Đống Đa|Trung Phụng|137 Phố Đội Cấn|214|359|2024-02-29|false|Trịnh Minh Tuấn|quyvinh.duong60@gmail.com|true|true
+Mai Tuệ Mẫn|Nam Từ Liêm|Phương Canh|121 Đường Quốc lộ 23|479|479|2024-02-29|false|Trịnh Minh Tuấn|tueman_mai5@gmail.com|true|false
+Lý Thanh Hậu|Hoàn Kiếm|Hàng Gai|174 Phố Trần Tế Xương|403|587|2024-02-29|false|Trịnh Minh Tuấn|thanhhau.ly86@hotmail.com|true|true
+Hồ Quốc Việt|Sơn Tây|Quang Trung|136 Đường Đông Trù|456|456|2024-02-29|false|Trịnh Minh Tuấn|quocviet.ho84@yahoo.com|true|false
+Hoàng Phong Độ|Long Biên|Thượng Thanh|158 Ngõ Trúc Lạc|433|433|2024-02-29|false|Trịnh Minh Tuấn|phong7ko.hoang73@gmail.com|true|false
+Đặng Hà Phương|Đan Phượng|Hồng Hà|111 Lai Yên|301|301|2024-02-29|false|Trịnh Minh Tuấn|haphuong_7kang@yahoo.com|true|false
+Đoàn Chính Tâm|Cầu Giấy|Yên Hoà|134 Phố Ngũ Xã|674|727|2024-02-29|true|Trịnh Minh Tuấn|chinhtam.7koan25@yahoo.com|false|true
+Tăng Từ Ân|Hoàng Mai|Đại Kim|200 Đường KCN An Khánh|462|805|2024-02-29|true|Trịnh Minh Tuấn|tuan_tang@yahoo.com|false|true
+Hà Việt Nhân|Mê Linh|Quang Minh|26 Đường Quốc lộ 23B|524|524|2024-02-29|false|Trịnh Minh Tuấn|vietnhan.ha11@gmail.com|true|false
+Trương Tuấn Dũng|Quốc Oai|Cộng Hoà|129 Phố Văn Cao|283|397|2024-02-29|false|Trịnh Minh Tuấn|tuandung_truong54@gmail.com|true|true
+Vũ Đình Nguyên|Hoàng Mai|Định Công|46 Thái Hà|580|655|2024-02-29|true|Trịnh Minh Tuấn|7kinhnguyen.vu79@yahoo.com|false|true
+Lâm Như Bảo|Thường Tín|Dũng Tiến|177 Xã Xuân Nội|348|610|2024-02-29|false|Trịnh Minh Tuấn|nhubao.lam@hotmail.com|true|true
+Ngô Phượng Tiên|Phú Xuyên|Phú Túc|173 Ngõ 35 Kim Mã Thượng|419|656|2024-02-29|true|Trịnh Minh Tuấn|phuongtien_ngo@gmail.com|false|true
+Tô Dạ Yến|Thạch Thất|Tiến Xuân|21 Đường Khu Thượng|332|332|2024-02-29|false|Trịnh Minh Tuấn|dayen.to14@gmail.com|true|false
+Phan Kim Thịnh|Mê Linh|Thanh Lâm|131 Cách Bi|756|1020|2024-02-29|true|Trịnh Minh Tuấn|kimthinh.phan14@yahoo.com|false|true
+Hoàng Minh Ân|Đống Đa|Thổ Quan|98 Xã Hải Bối|538|547|2024-02-29|true|Trịnh Minh Tuấn|minhan_hoang@yahoo.com|false|true
+Dương Kiên Lâm|Đống Đa|Hàng Bột|78 Đường Khu Thượng|295|295|2024-02-29|false|Trịnh Minh Tuấn|kienlam.duong@hotmail.com|true|false
+Trịnh Thanh Hiền|Sơn Tây|Trung Hưng|73 Đường Đông Trù|492|492|2024-02-29|false|Trịnh Minh Tuấn|thanhhien.trinh93@yahoo.com|true|false
+Đặng Lưu Ly|Sóc Sơn|Việt Long|174 Đường Kim Chung|771|1015|2024-02-29|true|Trịnh Minh Tuấn|luuly.7kang21@gmail.com|false|true
+Hồ Huệ An|Ba Đình|Ngọc Khánh|154 Phố Kim Mã Thượng|659|969|2024-02-29|false|Trịnh Minh Tuấn|huean.ho@hotmail.com|true|true
+Phan Thượng Cường|Hoàng Mai|Định Công|119 Phố Nguyễn Công Hoan|407|493|2024-02-29|true|Trịnh Minh Tuấn|thuongcuong.phan@gmail.com|false|true
+Đặng Thế Vinh|Bắc Từ Liêm|Cổ Nhuế 2|121 Đường Quốc lộ 71|386|716|2024-02-29|true|Trịnh Minh Tuấn|thevinh.7kang@gmail.com|false|true
+Lê Thái Hòa|Chương Mỹ|Phú Nghĩa|144 Lý Nam Đế|342|578|2024-02-29|true|Trịnh Minh Tuấn|thaihoa.le18@hotmail.com|false|true
+Phan Đức Ân|Quốc Oai|Nghĩa Hương|16 Phố Tó|178|229|2024-02-29|true|Trịnh Minh Tuấn|7kucan_phan@hotmail.com|false|true
+Dương Huy Thành|Tây Hồ|Xuân La|174 Đường Đồng Dầu|519|754|2024-02-29|true|Trịnh Minh Tuấn|huythanh_duong@hotmail.com|false|true
+Bùi Kim Lan|Thanh Trì|Đông Mỹ|162 Đường Bộ Đầu-Vạn Điểm|581|975|2024-02-29|false|Trịnh Minh Tuấn|kimlan.bui46@hotmail.com|true|true
+Phùng Thu Oanh|Đống Đa|Kim Liên|117 Đường Quốc lộ 32|393|704|2024-02-29|false|Trịnh Minh Tuấn|thuoanh.phung@yahoo.com|true|true
+Trịnh Cẩm Thúy|Phú Xuyên|Hồng Minh|196 Đường Ngõ 16, Huỳnh Thúc Kháng|417|525|2024-02-29|true|Trịnh Minh Tuấn|camthuy.trinh@gmail.com|false|true
+Dương Thục Đào|Ba Vì|Châu Sơn|95 Vân Canh|486|812|2024-02-29|false|Trịnh Minh Tuấn|thuc7kao.duong23@hotmail.com|true|true
+Đinh Khuê Trung|Mỹ Đức|Lê Thanh|207 Tỉnh lộ 427|272|570|2024-02-29|true|Trịnh Minh Tuấn|khuetrung_7kinh@gmail.com|false|true
+Đinh Duy Khiêm|Cầu Giấy|Dịch Vọng Hậu|56 Sơn Đồng|247|627|2024-02-29|false|Trịnh Minh Tuấn|duykhiem_7kinh1@yahoo.com|true|true
+Đoàn Thống Nhất|Thanh Xuân|Thanh Xuân Bắc|108 Hòa Bình|422|785|2024-02-29|true|Trịnh Minh Tuấn|thongnhat.7koan8@gmail.com|false|true
+Trịnh Tuấn Hải|Ba Đình|Giảng Võ|68 Sơn Tây|502|502|2024-02-29|false|Trịnh Minh Tuấn|tuanhai_trinh51@yahoo.com|true|false
+Phạm Thế Doanh|Hà Đông|Quang Trung|55 Đường Cầu Đôi|681|854|2024-02-29|true|Trịnh Minh Tuấn|thedoanh.pham32@hotmail.com|false|true
+Phạm Thanh Thúy|Thanh Trì|Tứ Hiệp|16 Phố Mạc Đĩnh Chi|256|455|2024-02-29|true|Trịnh Minh Tuấn|thanhthuy.pham21@hotmail.com|false|true
+Trịnh Khánh Quyên|Đông Anh|Nguyên Khê|127 Ngõ 639 Hoàng Hoa Thám|554|760|2024-02-29|true|Trịnh Minh Tuấn|khanhquyen_trinh@gmail.com|false|true
+Trương Thành An|Tây Hồ|Quảng An|194 Đông La|525|662|2024-02-29|true|Trịnh Minh Tuấn|thanhan_truong@gmail.com|false|true
+Hồ Hữu Châu|Thanh Trì|Liên Ninh|186 Kim Chung|342|732|2024-02-29|true|Trịnh Minh Tuấn|huuchau.ho8@hotmail.com|false|true
+Lý Nhân Sâm|Long Biên|Phúc Lợi|182 Xã Kim Chung|236|471|2024-02-29|true|Trịnh Minh Tuấn|nhansam_ly50@yahoo.com|false|true
+Dương Ngọc Danh|Hoàn Kiếm|Hàng Mã|160 Quất Động|435|536|2024-02-29|false|Trịnh Minh Tuấn|ngocdanh_duong@hotmail.com|true|true
+Bùi Trúc Mai|Thường Tín|Quất Động|121 Phố Trúc Bạch|622|894|2024-02-29|true|Trịnh Minh Tuấn|trucmai_bui94@hotmail.com|false|true
+Dương Thụy Nương|Ba Vì|Tây Đằng|87 Cách Bi|439|536|2024-02-29|true|Trịnh Minh Tuấn|thuynuong.duong98@gmail.com|false|true
+Đặng Quỳnh Sa|Ba Vì|Chu Minh|202 Nam Đồng|402|739|2024-02-29|true|Trịnh Minh Tuấn|quynhsa_7kang75@gmail.com|false|true
+Hoàng Ngọc Khương|Đan Phượng|Phùng|183 Văn Tự|299|528|2024-02-29|true|Trịnh Minh Tuấn|ngockhuong_hoang@hotmail.com|false|true
+Đinh Tiểu Bảo|Hoàng Mai|Tân Mai|69 Đống Đa|467|592|2024-02-29|false|Trịnh Minh Tuấn|tieubao_7kinh0@gmail.com|true|true
+Hồ Tường Vân|Hà Đông|Phú Lãm|91 Ngõ 639 Hoàng Hoa Thám|540|540|2024-02-29|false|Trịnh Minh Tuấn|tuongvan_ho@hotmail.com|true|false
+Trịnh Anh Phương|Nam Từ Liêm|Tây Mỗ|176 Phố Nam Cao|361|372|2024-02-29|true|Trịnh Minh Tuấn|anhphuong.trinh8@gmail.com|false|true
+Trịnh Nghi Xuân|Thạch Thất|Tân Xã|38 Đường Lâm Tiên|572|572|2024-02-29|false|Trịnh Minh Tuấn|nghixuan_trinh73@hotmail.com|true|false
+Tô Hồng Lĩnh|Hà Đông|Kiến Hưng|28 Đường Nguyễn Chí Thanh|473|540|2024-02-29|true|Trịnh Minh Tuấn|honglinh_to6@gmail.com|false|true
+Dương An Hằng|Ba Vì|Vân Hoà|127 Đường Quốc Lộ 5|323|323|2024-02-29|false|Trịnh Minh Tuấn|anhang_duong62@hotmail.com|true|false
+Hồ Xuân Liễu|Ứng Hoà|Trường Thịnh|186 Cửa Đông|278|413|2024-02-29|true|Trịnh Minh Tuấn|xuanlieu_ho73@hotmail.com|false|true
+Lê Triển Sinh|Nam Từ Liêm|Trung Văn|159 Đường Cổng Vĩnh|413|660|2024-02-29|false|Trịnh Minh Tuấn|triensinh.le85@gmail.com|true|true
+Phạm Tâm Thanh|Hoàn Kiếm|Phúc Tân|23 Phố Ga|281|538|2024-02-29|true|Trịnh Minh Tuấn|tamthanh_pham@hotmail.com|false|true
+Ngô Hiếu Hạnh|Ba Vì|Tiên Phong|69 Ngõ 31 Nguyễn Chí Thanh|386|539|2024-02-29|true|Trịnh Minh Tuấn|hieuhanh_ngo42@gmail.com|false|true
+Bùi Thanh Tịnh|Hoàng Mai|Hoàng Văn Thụ|51 Vân Côn|521|837|2024-02-29|true|Trịnh Minh Tuấn|thanhtinh.bui15@yahoo.com|false|true
+Hoàng Giáng Tiên|Ba Vì|Cẩm Lĩnh|126 Đường Cụt|642|843|2024-02-29|true|Trịnh Minh Tuấn|giangtien_hoang@yahoo.com|false|true
+Vũ Anh Minh|Ba Vì|Tây Đằng|120 Đường Láng Hạ|501|862|2024-02-29|true|Trịnh Minh Tuấn|anhminh_vu72@hotmail.com|false|true
+Vũ Tâm Hằng|Hoài Đức|Minh Khai|47 Đường Trúc Bạch|281|281|2024-02-29|false|Trịnh Minh Tuấn|tamhang_vu96@gmail.com|true|false
+Hoàng Thanh Dân|Mỹ Đức|Phúc Lâm|144 Xã Xuân Canh|721|924|2024-02-29|true|Trịnh Minh Tuấn|thanhdan.hoang@gmail.com|false|true
+Hà Tuyết Vân|Quốc Oai|Sài Sơn|158 Phố Nguyễn Khắc Nhu|505|567|2024-02-29|true|Trịnh Minh Tuấn|tuyetvan_ha70@gmail.com|false|true
+Đỗ Hữu Tân|Thường Tín|Chương Dương|188 Lý Nam Đế|370|661|2024-02-29|false|Trịnh Minh Tuấn|huutan.7ko@hotmail.com|true|true
+Trịnh Vân Quỳnh|Mỹ Đức|Phùng Xá|32 Ngọc Hà|158|453|2024-02-29|true|Trịnh Minh Tuấn|vanquynh_trinh@hotmail.com|false|true
+Vũ Đức Phong|Phúc Thọ|Vân Nam|140 Đường Phúc Diễn|519|662|2024-02-29|true|Trịnh Minh Tuấn|7kucphong_vu@hotmail.com|false|true
+Đoàn Mạnh Cương|Tây Hồ|Quảng An|50 Đường Thôn Đìa-Nam Hồng|403|774|2024-02-29|true|Trịnh Minh Tuấn|manhcuong.7koan39@gmail.com|false|true
+Đào Quỳnh Trang|Thường Tín|Văn Phú|110 Phố Lê Hồng Phong|404|404|2024-02-29|false|Trịnh Minh Tuấn|quynhtrang.7kao85@yahoo.com|true|false
+Mai Gia Thịnh|Chương Mỹ|Trung Hoà|205 Đường Khúc Hạo|326|326|2024-02-29|false|Trịnh Minh Tuấn|giathinh.mai10@gmail.com|true|false
+Ngô Khánh Giang|Sóc Sơn|Thanh Xuân|108 Đường Nguyễn Thái Học|683|924|2024-02-29|true|Trịnh Minh Tuấn|khanhgiang.ngo20@yahoo.com|false|true
+Vương Quỳnh Như|Cầu Giấy|Nghĩa Tân|78 Đường |541|561|2024-02-29|true|Trịnh Minh Tuấn|quynhnhu_vuong@yahoo.com|false|true
+Bùi Hải Sinh|Ba Vì|Ba Vì|191 Đường Dục Tú|506|700|2024-02-29|false|Trịnh Minh Tuấn|haisinh.bui78@yahoo.com|true|true
+Mai Ngọc Lân|Gia Lâm|Lệ Chi|144 Đường Hoàng Diệu|626|909|2024-02-29|true|Trịnh Minh Tuấn|ngoclan_mai59@gmail.com|false|true
+Phạm Ngọc Khánh|Long Biên|Đức Giang|160 Phố Hòe Nhai|452|452|2024-02-29|false|Trịnh Minh Tuấn|ngockhanh_pham@yahoo.com|true|false
+Vương Kim Phú|Ba Đình|Nguyễn Trung Trực|107 Phố Đội Cấn|622|622|2024-02-29|false|Trịnh Minh Tuấn|kimphu_vuong69@gmail.com|true|false
+Phan Xuân Cao|Ứng Hoà|Phương Tú|42 Phố Kênh Giữa|395|395|2024-02-29|false|Trịnh Minh Tuấn|xuancao.phan@hotmail.com|true|false
+Đỗ Vĩnh Ân|Thanh Oai|Hồng Dương|65 Đường Đại Mạch|420|475|2024-02-29|true|Trịnh Minh Tuấn|vinhan.7ko84@yahoo.com|false|true
+Dương Hoàng Ân|Cầu Giấy|Nghĩa Đô|122 Phố Hồng Phúc|466|653|2024-02-29|false|Trịnh Minh Tuấn|hoangan_duong@hotmail.com|true|true
+Nguyễn Mai Phương|Quốc Oai|Cộng Hoà|109 Phố Nguyễn Công Hoan|250|250|2024-02-29|false|Trịnh Minh Tuấn|maiphuong.nguyen90@yahoo.com|true|false
+Đỗ Hữu Trác|Thường Tín|Nghiêm Xuyên|165 Ngõ Hàng Bột|212|527|2024-02-29|true|Trịnh Minh Tuấn|huutrac_7ko@hotmail.com|false|true
+Lê Ánh Thơ|Tây Hồ|Phú Thượng|191 Đường Nguyễn Chí Thanh|555|555|2024-02-29|false|Trịnh Minh Tuấn|anhtho.le91@hotmail.com|true|false
+Ngô Kiều Dung|Ba Đình|Giảng Võ|98 Đường đi Dương Liễu|544|555|2024-02-29|true|Trịnh Minh Tuấn|kieudung_ngo@gmail.com|false|true
+Nguyễn Phượng Long|Đan Phượng|Liên Hà|34 Đường Nghĩa Vũ|613|969|2024-02-29|true|Trịnh Minh Tuấn|phuonglong.nguyen@hotmail.com|false|true
+Lê Lâm Tuyền|Sóc Sơn|Nam Sơn|194 Đường Đồng Quan|657|745|2024-02-29|true|Trịnh Minh Tuấn|lamtuyen.le@hotmail.com|false|true
+Nguyễn Ánh Linh|Thạch Thất|Yên Trung|203 Hà Hồi|561|879|2024-02-29|true|Trịnh Minh Tuấn|anhlinh_nguyen99@hotmail.com|false|true
+Bùi Bích Hà|Tây Hồ|Phú Thượng|135 Đại Lộ Thăng Long|373|741|2024-02-29|true|Trịnh Minh Tuấn|bichha.bui@yahoo.com|false|true
+Phan Kim Thông|Hai Bà Trưng|Bách Khoa|17 ngõ 535 Kim mã|734|1117|2024-02-29|true|Trịnh Minh Tuấn|kimthong.phan43@yahoo.com|false|true
+Phan Trọng Chính|Tây Hồ|Quảng An|35 Phố Giang Văn Minh|644|869|2024-02-29|true|Trịnh Minh Tuấn|trongchinh.phan45@gmail.com|false|true
+Trịnh Kim Phú|Thanh Xuân|Khương Mai|144 Lai Yên|482|482|2024-02-29|false|Trịnh Minh Tuấn|kimphu.trinh@gmail.com|true|false
+Nguyễn Thy Khanh|Hai Bà Trưng|Thanh Nhàn|105 Đường Nguyễn Chí Thanh|457|819|2024-02-29|true|Trịnh Minh Tuấn|thykhanh_nguyen@yahoo.com|false|true
+Trần Bích Thoa|Hoàn Kiếm|Tràng Tiền|20 Đường Cầu Binh|397|750|2024-02-29|true|Trịnh Minh Tuấn|bichthoa_tran@yahoo.com|false|true
+Lê Bảo Chấn|Mê Linh|Đại Thịnh|55 Tô Hiệu|508|846|2024-02-29|true|Trịnh Minh Tuấn|baochan.le34@yahoo.com|false|true
+Đinh Kiều Khanh|Thanh Trì|Thanh Liệt|189 Đường Cầu Binh|342|675|2024-02-29|true|Trịnh Minh Tuấn|kieukhanh_7kinh13@yahoo.com|false|true
+Lê Phương Thể|Sơn Tây|Ngô Quyền|27 Phố Kim Mã|415|795|2024-02-29|true|Trịnh Minh Tuấn|phuongthe.le13@yahoo.com|false|true
+Hoàng Trọng Trí|Đan Phượng|Hạ Mỗ|186 Phố Sơn Tây|522|716|2024-02-29|true|Trịnh Minh Tuấn|trongtri_hoang@gmail.com|false|true
+Phan Bảo Huỳnh|Hoàng Mai|Tân Mai|167 Lương Nỗ|553|651|2024-02-29|true|Trịnh Minh Tuấn|baohuynh_phan@gmail.com|false|true
+Tô Chí Công|Thạch Thất|Thạch Hoà|123 Đường Núi Đôi|546|704|2024-02-29|true|Trịnh Minh Tuấn|chicong.to@gmail.com|false|true
+Đoàn Nghị Quyền|Ba Đình|Liễu Giai|25 Ngõ 103 Kim Mã|424|628|2024-02-29|true|Trịnh Minh Tuấn|nghiquyen_7koan19@yahoo.com|false|true
+Trương Thu Thảo|Cầu Giấy|Dịch Vọng|176 AH 1|657|1018|2024-02-29|true|Trịnh Minh Tuấn|thuthao.truong48@gmail.com|false|true
+Mai Như Trân|Gia Lâm|Ninh Hiệp|11 Đường Nguyễn Thái Học|563|563|2024-02-29|true|Trịnh Minh Tuấn|nhutran.mai@yahoo.com|false|true
+Đặng Công Phụng|Tây Hồ|Quảng An|112 Đường Thượng Thụy|557|737|2024-02-29|true|Trịnh Minh Tuấn|congphung_7kang61@hotmail.com|false|true
+Lê Phương Nghi|Hoàng Mai|Giáp Bát|151 Ngõ Trúc Lạc|473|698|2024-02-29|true|Trịnh Minh Tuấn|phuongnghi_le77@hotmail.com|false|true
+Đào Công Bằng|Hoàn Kiếm|Hàng Trống|115 Đường Cầu Đôi|269|410|2024-02-29|true|Trịnh Minh Tuấn|congbang_7kao@hotmail.com|false|true
+Đinh Bạch Yến|Thường Tín|Văn Phú|34 Xã Thụy Lâm|422|585|2024-02-29|true|Trịnh Minh Tuấn|bachyen.7kinh@hotmail.com|false|true
+Hoàng Như Hoa|Hà Đông|Vạn Phúc|144 Hiền Giang|479|696|2024-02-29|true|Trịnh Minh Tuấn|nhuhoa.hoang46@hotmail.com|false|true
+Đào Chí Công|Hai Bà Trưng|Minh Khai|61 Tổ 36|290|565|2024-02-29|false|Trịnh Minh Tuấn|chicong.7kao@gmail.com|true|true
+Mai Phương Nam|Nam Từ Liêm|Phương Canh|130 Ngõ 102 A3 Núi Trúc|434|666|2024-02-29|true|Trịnh Minh Tuấn|phuongnam.mai29@yahoo.com|false|true
+Trần Phương Yến|Nam Từ Liêm|Cầu Diễn|36 Phố Trần Tế Xương|400|547|2024-02-29|true|Trịnh Minh Tuấn|phuongyen_tran71@hotmail.com|false|true
+Phùng Lê Quỳnh|Thanh Xuân|Khương Mai|188 Phố Núi Trúc|645|1041|2024-02-29|true|Trịnh Minh Tuấn|lequynh_phung83@hotmail.com|false|true
+Đào Thế Vinh|Sơn Tây|Thanh Mỹ|74 Thành Công|434|447|2024-02-29|true|Trịnh Minh Tuấn|thevinh_7kao@hotmail.com|false|true
+Hà Duy Thông|Đống Đa|Ô Chợ Dừa|175 Đường Mai Hiên|428|814|2024-02-29|true|Trịnh Minh Tuấn|duythong_ha37@yahoo.com|false|true
+Phùng Hữu Từ|Tây Hồ|Phú Thượng|55 Thị trấn Trạm Trôi|601|763|2024-02-29|true|Trịnh Minh Tuấn|huutu_phung69@hotmail.com|false|true
+Đào Minh Nhật|Ba Vì|Vạn Thắng|104 Đường Nguyễn Thái Học|516|811|2024-03-31|true|Trịnh Minh Tuấn|minhnhat_7kao18@hotmail.com|false|true
+Tô Xuân Hoa|Sơn Tây|Lê Lợi|61 Thái Hà|656|656|2024-03-31|false|Trịnh Minh Tuấn|xuanhoa_to81@gmail.com|true|false
+Vương Khải Hà|Sóc Sơn|Mai Đình|143 Xã Tàm Xá|614|645|2024-03-31|true|Trịnh Minh Tuấn|khaiha_vuong87@yahoo.com|false|true
+Lâm Huân Võ|Thanh Trì|Vĩnh Quỳnh|147 Đê La Thành|621|897|2024-03-31|true|Trịnh Minh Tuấn|huanvo.lam@yahoo.com|false|true
+Vũ Ngọc Ly|Chương Mỹ|Phú Nghĩa|21 Vân Côn|597|834|2024-03-31|true|Trịnh Minh Tuấn|ngocly.vu73@hotmail.com|false|true
+Vương Bình Thuận|Đông Anh|Xuân Nộn|196 Dương Liễu|368|368|2024-03-31|false|Trịnh Minh Tuấn|binhthuan_vuong@yahoo.com|true|false
+Trương Kim Thu|Đan Phượng|Thọ Xuân|69 Đường Nguyễn Thái Học|831|831|2024-03-31|false|Trịnh Minh Tuấn|kimthu_truong@gmail.com|true|false
+Đào Gia Huấn|Mê Linh|Hoàng Kim|182 Ngõ 173 Hoàng Hoa Thám|777|847|2024-03-31|true|Trịnh Minh Tuấn|giahuan.7kao72@hotmail.com|false|true
+Hà Anh Đức|Quốc Oai|Liệp Tuyết|20 Đường Hoàng Diệu|875|1162|2024-03-31|false|Trịnh Minh Tuấn|anh7kuc_ha64@hotmail.com|true|true
+Phùng Lâm Vũ|Cầu Giấy|Dịch Vọng|196 Đường Cầu Đôi|652|707|2024-03-31|true|Trịnh Minh Tuấn|lamvu.phung66@yahoo.com|false|true
+Hà Hà Thanh|Thanh Xuân|Kim Giang|96 Vạn Điểm|646|868|2024-03-31|true|Trịnh Minh Tuấn|hathanh_ha@gmail.com|false|true
+Phan Quỳnh Hương|Sơn Tây|Xuân Sơn|27 Yên Sở|528|586|2024-03-31|true|Trịnh Minh Tuấn|quynhhuong.phan54@hotmail.com|false|true
+Đoàn Trang Anh|Quốc Oai|Cấn Hữu|154 Đường Cơ Xá|642|1007|2024-03-31|true|Trịnh Minh Tuấn|tranganh_7koan59@hotmail.com|false|true
+Đặng Thanh Hường|Thanh Oai|Dân Hoà|172 Ninh Sở|380|472|2024-03-31|true|Trịnh Minh Tuấn|thanhhuong_7kang28@hotmail.com|false|true
+Lâm Lệ Băng|Thường Tín|Hoà Bình|159 Đường Quốc Lộ 5|839|839|2024-03-31|false|Trịnh Minh Tuấn|lebang.lam88@gmail.com|true|false
+Mai Thiên Tuyền|Thạch Thất|Thạch Xá|146 Đường Bắc Thăng Long-Hải Bối|442|779|2024-03-31|true|Trịnh Minh Tuấn|thientuyen_mai@yahoo.com|false|true
+Hà Việt Hồng|Ứng Hoà|Đồng Tiến|131 Đường Nghĩa Vũ|493|653|2024-03-31|true|Trịnh Minh Tuấn|viethong.ha@hotmail.com|false|true
+Lê Quốc Quân|Sơn Tây|Trung Hưng|10 Phố Thanh Bảo|508|508|2024-03-31|false|Trịnh Minh Tuấn|quocquan_le@gmail.com|true|false
+Hồ Anh Thi|Sơn Tây|Phú Thịnh|118 Ngọc Hà|733|964|2024-03-31|true|Trịnh Minh Tuấn|anhthi_ho@hotmail.com|false|true
+Trần Thiện Ân|Thường Tín|Văn Tự|45 Ngõ 138 Ngọc Hà|721|721|2024-03-31|false|Trịnh Minh Tuấn|thienan.tran@hotmail.com|true|false
+Đinh Tường Chinh|Đan Phượng|Đồng Tháp|109 Ngõ 138 Ngọc Hà|482|619|2024-03-31|false|Trịnh Minh Tuấn|tuongchinh.7kinh@yahoo.com|true|true
+Hoàng Thượng Cường|Tây Hồ|Thụy Khuê|11 Phố Đốc Ngữ|718|718|2024-03-31|false|Trịnh Minh Tuấn|thuongcuong.hoang@hotmail.com|true|false
+Đào Diễm Khuê|Long Biên|Gia Thụy|197 Phường Cấn|694|694|2024-03-31|false|Trịnh Minh Tuấn|diemkhue_7kao@yahoo.com|true|false
+Vương Xuân Yến|Phú Xuyên|Quang Lãng|85 Đường Núi Đôi|684|855|2024-03-31|true|Trịnh Minh Tuấn|xuanyen_vuong82@hotmail.com|false|true
+Đặng Quốc Văn|Đông Anh|Nam Hồng|77 Cách Bi|649|649|2024-03-31|false|Trịnh Minh Tuấn|quocvan_7kang37@gmail.com|true|false
+Vương Bích Thủy|Chương Mỹ|Hữu Văn|39 Đường Quốc Lộ 1|698|698|2024-03-31|false|Trịnh Minh Tuấn|bichthuy.vuong@hotmail.com|true|false
+Phùng Nguyệt Ánh|Bắc Từ Liêm|Đức Thắng|177 Chùa Láng|610|692|2024-03-31|true|Trịnh Minh Tuấn|nguyetanh_phung89@hotmail.com|false|true
+Bùi Tuyết Trầm|Đan Phượng|Đan Phượng|82 Đường 9|645|852|2024-03-31|true|Trịnh Minh Tuấn|tuyettram.bui@gmail.com|false|true
+Lê Hồng Lĩnh|Tây Hồ|Xuân La|128 Đường Đồng Dầu|772|861|2024-03-31|true|Trịnh Minh Tuấn|honglinh.le@yahoo.com|false|true
+Đinh Quốc Hoài|Đan Phượng|Tân Hội|83 Đường Cống Bi|936|1081|2024-03-31|true|Trịnh Minh Tuấn|quochoai.7kinh@yahoo.com|false|true
+Nguyễn Vũ Anh|Đông Anh|Vân Nội|71 Đường Quán Thánh|443|725|2024-03-31|true|Trịnh Minh Tuấn|vuanh.nguyen@yahoo.com|false|true
+Hồ Tường Lĩnh|Đan Phượng|Trung Châu|209 Đường Phương Trạch|657|883|2024-03-31|false|Trịnh Minh Tuấn|tuonglinh_ho11@hotmail.com|true|true
+Đặng Ngọc Lâm|Phúc Thọ|Tam Hiệp|88 Phố Lê Hồng Phong|626|692|2024-03-31|true|Trịnh Minh Tuấn|ngoclam.7kang20@yahoo.com|false|true
+Vũ Sơn Tuyền|Gia Lâm|Trung Mầu|95 Ngõ 376 đường Bưởi|820|996|2024-03-31|true|Trịnh Minh Tuấn|sontuyen_vu86@hotmail.com|false|true
+Nguyễn Trọng Trí|Hai Bà Trưng|Cầu Dền|21 Đường Nguyễn Chí Thanh|224|224|2024-03-31|false|Trịnh Minh Tuấn|trongtri.nguyen77@hotmail.com|true|false
+Hồ Mạnh Tấn|Mê Linh|Thanh Lâm|99 Ninh Sở|489|834|2024-03-31|true|Trịnh Minh Tuấn|manhtan.ho93@yahoo.com|false|true
+Phạm Tuấn Khải|Long Biên|Thạch Bàn|156 Di Trạch|778|958|2024-03-31|true|Trịnh Minh Tuấn|tuankhai_pham91@gmail.com|false|true
+Hoàng Mỹ Kiều|Hai Bà Trưng|Lê Đại Hành|197 Phố Chùa Một Cột|562|723|2024-03-31|true|Trịnh Minh Tuấn|mykieu.hoang37@yahoo.com|false|true
+Lê Sao Mai|Quốc Oai|Quốc Oai|143 Ngõ 376 đường Bưởi|731|745|2024-03-31|true|Trịnh Minh Tuấn|saomai.le10@hotmail.com|false|true
+Hà Đức Sinh|Cầu Giấy|Mai Dịch|126 Ngõ Ngọc Hà|385|505|2024-03-31|true|Trịnh Minh Tuấn|7kucsinh.ha@hotmail.com|false|true
+Ngô Quế Linh|Hai Bà Trưng|Lê Đại Hành|133 An Dương|457|457|2024-03-31|false|Trịnh Minh Tuấn|quelinh_ngo@hotmail.com|true|false
+Nguyễn Yến Trinh|Phú Xuyên|Phúc Tiến|78 Đường Đào Cam Mộc|784|912|2024-03-31|true|Trịnh Minh Tuấn|yentrinh_nguyen@hotmail.com|false|true
+Vũ Minh Hoàng|Đống Đa|Trung Liệt|14 Đường Xuân Canh|251|251|2024-03-31|false|Trịnh Minh Tuấn|minhhoang.vu17@yahoo.com|true|false
+Dương Hoàng Dũng|Long Biên|Phúc Lợi|52 Đường Nguyễn Chí Thanh|658|989|2024-03-31|false|Trịnh Minh Tuấn|hoangdung.duong3@gmail.com|true|true
+Vũ Thông Minh|Phúc Thọ|Xuân Đình|194 Đường Bờ Hồ|843|1210|2024-03-31|true|Trịnh Minh Tuấn|thongminh.vu33@hotmail.com|false|true
+Mai Ngân Trúc|Mê Linh|Kim Hoa|85 Vân Canh|615|911|2024-03-31|false|Trịnh Minh Tuấn|ngantruc.mai@gmail.com|true|true
+Phạm Kim Phượng|Hoàn Kiếm|Hàng Bạc|68 Đường Nguyễn Thái Học|572|818|2024-03-31|false|Trịnh Minh Tuấn|kimphuong.pham@yahoo.com|true|true
+Đặng Bích Hiền|Sóc Sơn|Bắc Sơn|105 Phố Yên Ninh|605|747|2024-03-31|true|Trịnh Minh Tuấn|bichhien.7kang@gmail.com|false|true
+Lê Lệ Chi|Phú Xuyên|Vân Từ|205 Đường Thanh Báo|476|812|2024-03-31|true|Trịnh Minh Tuấn|lechi.le@hotmail.com|false|true
+Lâm Tuyết Lâm|Mỹ Đức|Hợp Thanh|47 Đường Nguyễn Thái Học|761|1065|2024-03-31|true|Trịnh Minh Tuấn|tuyetlam.lam57@gmail.com|false|true
+Đặng Lâm Tuyền|Ba Vì|Tản Hồng|12 Xã Nguyên Khê|591|591|2024-03-31|false|Trịnh Minh Tuấn|lamtuyen.7kang@gmail.com|true|false
+Hồ Khắc Tuấn|Phúc Thọ|Hiệp Thuận|139 Phố Tôn Thất Thiệp|637|637|2024-03-31|false|Trịnh Minh Tuấn|khactuan.ho18@yahoo.com|true|false
+Vương Khánh Duy|Chương Mỹ|Chúc Sơn|102 Ngõ Yên Thế|730|1028|2024-03-31|true|Trịnh Minh Tuấn|khanhduy.vuong@gmail.com|false|true
+Phan Đức Kiên|Đông Anh|Nam Hồng|97 Đường Nguyễn Trung Trực|825|1060|2024-03-31|true|Trịnh Minh Tuấn|7kuckien.phan56@hotmail.com|false|true
+Mai Xuân Minh|Hoài Đức|Minh Khai|132 Phố Nguyễn Văn Ngọc|725|1015|2024-03-31|false|Trịnh Minh Tuấn|xuanminh.mai84@gmail.com|true|true
+Vương Phương Quế|Thường Tín|Tô Hiệu|180 Đường Đào Duy Tùng|707|913|2024-03-31|true|Trịnh Minh Tuấn|phuongque_vuong@yahoo.com|false|true
+Bùi Cao Sơn|Phú Xuyên|Sơn Hà|180 Hòa Bình|302|697|2024-03-31|true|Trịnh Minh Tuấn|caoson_bui74@yahoo.com|false|true
+Đoàn Tích Thiện|Phúc Thọ|Trạch Mỹ Lộc|135 Đường Vân Hà|661|850|2024-03-31|true|Trịnh Minh Tuấn|tichthien.7koan@gmail.com|false|true
+Phạm Hoa Tiên|Hà Đông|Dương Nội|191 Cổ Dương -Tiên Dương|646|923|2024-03-31|false|Trịnh Minh Tuấn|hoatien_pham76@hotmail.com|true|true
+Trịnh Phương Diễm|Chương Mỹ|Tiên Phương|114 Đường Liên Xã|795|994|2024-03-31|true|Trịnh Minh Tuấn|phuongdiem.trinh@hotmail.com|false|true
+Vương Hữu Vượng|Phúc Thọ|Ngọc Tảo|176 Ngõ 639 Hoàng Hoa Thám|743|743|2024-03-31|false|Trịnh Minh Tuấn|huuvuong.vuong1@gmail.com|true|false
+Nguyễn Tiến Võ|Đông Anh|Võng La|68 Ngõ 58 Đào Tấn|780|802|2024-03-31|true|Trịnh Minh Tuấn|tienvo_nguyen74@yahoo.com|false|true
+Vũ Nam Lộc|Ứng Hoà|Hoà Nam|125 Phố Vạn Bảo|648|648|2024-03-31|false|Trịnh Minh Tuấn|namloc.vu@gmail.com|true|false
+Phùng Đắc Lực|Hoài Đức|Cát Quế|112 Đường Đông Trù|573|701|2024-03-31|true|Trịnh Minh Tuấn|7kacluc.phung@yahoo.com|false|true
+Tăng Hạnh Trang|Phú Xuyên|Phượng Dực|105 Đường Cụt|390|711|2024-03-31|true|Trịnh Minh Tuấn|hanhtrang.tang@gmail.com|false|true
+Nguyễn Nhật Minh|Thạch Thất|Cẩm Yên|169 Phố Trịnh Hoài Đức|788|1146|2024-03-31|false|Trịnh Minh Tuấn|nhatminh.nguyen@yahoo.com|true|true
+Vũ Uyển My|Thường Tín|Vân Tảo|208 Đường Uy Mỗ|493|493|2024-03-31|false|Trịnh Minh Tuấn|uyenmy.vu54@gmail.com|true|false
+Đào Kiều Thu|Sóc Sơn|Tân Minh|80 Phố Hàng Than|521|521|2024-03-31|false|Trịnh Minh Tuấn|kieuthu.7kao75@gmail.com|true|false
+Tô Vân Phi|Long Biên|Phúc Đồng|161 Ngọc Khánh|983|1360|2024-03-31|true|Trịnh Minh Tuấn|vanphi_to67@yahoo.com|false|true
+Đỗ Khánh Vi|Nam Từ Liêm|Tây Mỗ|45 Nhị Khê|732|869|2024-03-31|false|Trịnh Minh Tuấn|khanhvi_7ko95@gmail.com|true|true
+Hà Khải Tuấn|Ứng Hoà|Hoà Phú|12 Phố Tôn Thất Thiệp|717|717|2024-03-31|false|Trịnh Minh Tuấn|khaituan_ha@hotmail.com|true|false
+Phạm Quang Đức|Mê Linh|Đại Thịnh|52 Liên Phương|615|615|2024-03-31|false|Trịnh Minh Tuấn|quang7kuc.pham34@hotmail.com|true|false
+Trịnh Bảo Huệ|Đống Đa|Khương Thượng|123 Phúc Xá|945|1182|2024-03-31|true|Trịnh Minh Tuấn|baohue_trinh@gmail.com|false|true
+Hoàng Liên Hương|Đống Đa|Trung Phụng|33 Đường Lê Trọng Tấn|738|738|2024-03-31|false|Trịnh Minh Tuấn|lienhuong_hoang@gmail.com|true|false
+Lâm Hà Phương|Thanh Xuân|Phương Liệt|61 Đường Thôn Đìa-Nam Hồng|430|807|2024-03-31|false|Trịnh Minh Tuấn|haphuong_lam@yahoo.com|true|true
+Nguyễn Thiện Dũng|Mê Linh|Mê Linh|26 Phố Mai Anh Tuấn|563|838|2024-03-31|true|Trịnh Minh Tuấn|thiendung.nguyen70@yahoo.com|false|true
+Lâm Xuân Thái|Mê Linh|Tráng Việt|84 Đường Xóm Trại|889|996|2024-03-31|true|Trịnh Minh Tuấn|xuanthai.lam@hotmail.com|false|true
+Nguyễn Khánh Vân|Sơn Tây|Lê Lợi|161 Đường Kim Chung|410|410|2024-03-31|false|Trịnh Minh Tuấn|khanhvan.nguyen@hotmail.com|true|false
+Hoàng Thanh Ngân|Hà Đông|Mộ Lao|156 Đường Xuân Canh|514|621|2024-03-31|true|Trịnh Minh Tuấn|thanhngan.hoang@yahoo.com|false|true
+Trịnh Hữu Chiến|Gia Lâm|Yên Viên|150 Ngõ 103 Kim Mã|714|877|2024-03-31|true|Trịnh Minh Tuấn|huuchien.trinh14@gmail.com|false|true
+Vũ Thúy Hằng|Hà Đông|Yên Nghĩa|175 Khu tập thể A5|468|468|2024-03-31|false|Trịnh Minh Tuấn|thuyhang_vu@hotmail.com|true|false
+Phan Diễm Phương|Long Biên|Phúc Đồng|192 Phố Nam Tràng|526|526|2024-03-31|false|Trịnh Minh Tuấn|diemphuong_phan56@yahoo.com|true|false
+Phan Hồng Khuê|Quốc Oai|Thạch Thán|187 Đường Trần Phú|829|1125|2024-03-31|true|Trịnh Minh Tuấn|hongkhue.phan40@gmail.com|false|true
+Đoàn Hữu Minh|Ba Đình|Đội Cấn|61 ngõ 535 Kim mã|430|586|2024-03-31|true|Trịnh Minh Tuấn|huuminh.7koan@hotmail.com|false|true
+Hà Từ Dung|Thanh Oai|Mỹ Hưng|117 Phố Núi Trúc|799|997|2024-03-31|true|Trịnh Minh Tuấn|tudung_ha23@gmail.com|false|true
+Phan Ngọc Phụng|Hoàng Mai|Hoàng Liệt|16 Quốc Lộ 1|647|647|2024-03-31|false|Trịnh Minh Tuấn|ngocphung.phan@gmail.com|true|false
+Mai Thanh Toản|Quốc Oai|Hoà Thạch|203 Đường Khu tập thể Thành Công|811|1154|2024-03-31|true|Trịnh Minh Tuấn|thanhtoan_mai8@yahoo.com|false|true
+Nguyễn Thế An|Mê Linh|Hoàng Kim|122 Phường Quán Thánh|662|662|2024-03-31|false|Trịnh Minh Tuấn|thean_nguyen59@hotmail.com|true|false
+Lý Phúc Thịnh|Hai Bà Trưng|Thanh Lương|59 Phố Ga|688|847|2024-03-31|true|Trịnh Minh Tuấn|phucthinh.ly20@gmail.com|false|true
+Lê Minh Hỷ|Phúc Thọ|Phúc Thọ|12 Đường Sơn Đồng|322|551|2024-03-31|true|Trịnh Minh Tuấn|minhhy.le79@hotmail.com|false|true
+Hà Thế Lực|Hai Bà Trưng|Đồng Tâm|164 Xã Liên Hà|631|631|2024-03-31|false|Trịnh Minh Tuấn|theluc.ha75@hotmail.com|true|false
+Dương Quý Vĩnh|Đống Đa|Trung Phụng|137 Phố Đội Cấn|359|359|2024-03-31|false|Trịnh Minh Tuấn|quyvinh.duong60@gmail.com|true|false
+Mai Tuệ Mẫn|Nam Từ Liêm|Phương Canh|121 Đường Quốc lộ 23|479|479|2024-03-31|false|Trịnh Minh Tuấn|tueman_mai5@gmail.com|true|false
+Lý Thanh Hậu|Hoàn Kiếm|Hàng Gai|174 Phố Trần Tế Xương|587|587|2024-03-31|false|Trịnh Minh Tuấn|thanhhau.ly86@hotmail.com|true|false
+Hồ Quốc Việt|Sơn Tây|Quang Trung|136 Đường Đông Trù|456|456|2024-03-31|false|Trịnh Minh Tuấn|quocviet.ho84@yahoo.com|true|false
+Hoàng Phong Độ|Long Biên|Thượng Thanh|158 Ngõ Trúc Lạc|433|433|2024-03-31|false|Trịnh Minh Tuấn|phong7ko.hoang73@gmail.com|true|false
+Đặng Hà Phương|Đan Phượng|Hồng Hà|111 Lai Yên|301|301|2024-03-31|false|Trịnh Minh Tuấn|haphuong_7kang@yahoo.com|true|false
+Đoàn Chính Tâm|Cầu Giấy|Yên Hoà|134 Phố Ngũ Xã|728|907|2024-03-31|false|Trịnh Minh Tuấn|chinhtam.7koan25@yahoo.com|true|true
+Tăng Từ Ân|Hoàng Mai|Đại Kim|200 Đường KCN An Khánh|806|913|2024-03-31|true|Trịnh Minh Tuấn|tuan_tang@yahoo.com|false|true
+Hà Việt Nhân|Mê Linh|Quang Minh|26 Đường Quốc lộ 23B|524|524|2024-03-31|false|Trịnh Minh Tuấn|vietnhan.ha11@gmail.com|true|false
+Trương Tuấn Dũng|Quốc Oai|Cộng Hoà|129 Phố Văn Cao|397|397|2024-03-31|false|Trịnh Minh Tuấn|tuandung_truong54@gmail.com|true|false
+Vũ Đình Nguyên|Hoàng Mai|Định Công|46 Thái Hà|656|749|2024-03-31|true|Trịnh Minh Tuấn|7kinhnguyen.vu79@yahoo.com|false|true
+Lâm Như Bảo|Thường Tín|Dũng Tiến|177 Xã Xuân Nội|610|610|2024-03-31|false|Trịnh Minh Tuấn|nhubao.lam@hotmail.com|true|false
+Ngô Phượng Tiên|Phú Xuyên|Phú Túc|173 Ngõ 35 Kim Mã Thượng|657|873|2024-03-31|false|Trịnh Minh Tuấn|phuongtien_ngo@gmail.com|true|true
+Tô Dạ Yến|Thạch Thất|Tiến Xuân|21 Đường Khu Thượng|332|332|2024-03-31|false|Trịnh Minh Tuấn|dayen.to14@gmail.com|true|false
+Phan Kim Thịnh|Mê Linh|Thanh Lâm|131 Cách Bi|1021|1163|2024-03-31|false|Trịnh Minh Tuấn|kimthinh.phan14@yahoo.com|true|true
+Hoàng Minh Ân|Đống Đa|Thổ Quan|98 Xã Hải Bối|548|756|2024-03-31|true|Trịnh Minh Tuấn|minhan_hoang@yahoo.com|false|true
+Dương Kiên Lâm|Đống Đa|Hàng Bột|78 Đường Khu Thượng|295|295|2024-03-31|false|Trịnh Minh Tuấn|kienlam.duong@hotmail.com|true|false
+Trịnh Thanh Hiền|Sơn Tây|Trung Hưng|73 Đường Đông Trù|492|492|2024-03-31|false|Trịnh Minh Tuấn|thanhhien.trinh93@yahoo.com|true|false
+Đặng Lưu Ly|Sóc Sơn|Việt Long|174 Đường Kim Chung|1016|1076|2024-03-31|false|Trịnh Minh Tuấn|luuly.7kang21@gmail.com|true|true
+Hồ Huệ An|Ba Đình|Ngọc Khánh|154 Phố Kim Mã Thượng|969|969|2024-03-31|false|Trịnh Minh Tuấn|huean.ho@hotmail.com|true|false
+Phan Thượng Cường|Hoàng Mai|Định Công|119 Phố Nguyễn Công Hoan|494|753|2024-03-31|false|Trịnh Minh Tuấn|thuongcuong.phan@gmail.com|true|true
+Đặng Thế Vinh|Bắc Từ Liêm|Cổ Nhuế 2|121 Đường Quốc lộ 71|717|844|2024-03-31|true|Trịnh Minh Tuấn|thevinh.7kang@gmail.com|false|true
+Lê Thái Hòa|Chương Mỹ|Phú Nghĩa|144 Lý Nam Đế|579|592|2024-03-31|true|Trịnh Minh Tuấn|thaihoa.le18@hotmail.com|false|true
+Phan Đức Ân|Quốc Oai|Nghĩa Hương|16 Phố Tó|230|451|2024-03-31|true|Trịnh Minh Tuấn|7kucan_phan@hotmail.com|false|true
+Dương Huy Thành|Tây Hồ|Xuân La|174 Đường Đồng Dầu|755|1012|2024-03-31|true|Trịnh Minh Tuấn|huythanh_duong@hotmail.com|false|true
+Bùi Kim Lan|Thanh Trì|Đông Mỹ|162 Đường Bộ Đầu-Vạn Điểm|975|975|2024-03-31|false|Trịnh Minh Tuấn|kimlan.bui46@hotmail.com|true|false
+Phùng Thu Oanh|Đống Đa|Kim Liên|117 Đường Quốc lộ 32|704|704|2024-03-31|false|Trịnh Minh Tuấn|thuoanh.phung@yahoo.com|true|false
+Trịnh Cẩm Thúy|Phú Xuyên|Hồng Minh|196 Đường Ngõ 16, Huỳnh Thúc Kháng|526|781|2024-03-31|true|Trịnh Minh Tuấn|camthuy.trinh@gmail.com|false|true
+Dương Thục Đào|Ba Vì|Châu Sơn|95 Vân Canh|812|812|2024-03-31|false|Trịnh Minh Tuấn|thuc7kao.duong23@hotmail.com|true|false
+Đinh Khuê Trung|Mỹ Đức|Lê Thanh|207 Tỉnh lộ 427|571|673|2024-03-31|true|Trịnh Minh Tuấn|khuetrung_7kinh@gmail.com|false|true
+Đinh Duy Khiêm|Cầu Giấy|Dịch Vọng Hậu|56 Sơn Đồng|627|627|2024-03-31|false|Trịnh Minh Tuấn|duykhiem_7kinh1@yahoo.com|true|false
+Đoàn Thống Nhất|Thanh Xuân|Thanh Xuân Bắc|108 Hòa Bình|786|1179|2024-03-31|false|Trịnh Minh Tuấn|thongnhat.7koan8@gmail.com|true|true
+Trịnh Tuấn Hải|Ba Đình|Giảng Võ|68 Sơn Tây|502|502|2024-03-31|false|Trịnh Minh Tuấn|tuanhai_trinh51@yahoo.com|true|false
+Phạm Thế Doanh|Hà Đông|Quang Trung|55 Đường Cầu Đôi|855|1124|2024-03-31|true|Trịnh Minh Tuấn|thedoanh.pham32@hotmail.com|false|true
+Phạm Thanh Thúy|Thanh Trì|Tứ Hiệp|16 Phố Mạc Đĩnh Chi|456|499|2024-03-31|true|Trịnh Minh Tuấn|thanhthuy.pham21@hotmail.com|false|true
+Trịnh Khánh Quyên|Đông Anh|Nguyên Khê|127 Ngõ 639 Hoàng Hoa Thám|761|1022|2024-03-31|false|Trịnh Minh Tuấn|khanhquyen_trinh@gmail.com|true|true
+Trương Thành An|Tây Hồ|Quảng An|194 Đông La|663|990|2024-03-31|true|Trịnh Minh Tuấn|thanhan_truong@gmail.com|false|true
+Hồ Hữu Châu|Thanh Trì|Liên Ninh|186 Kim Chung|733|940|2024-03-31|true|Trịnh Minh Tuấn|huuchau.ho8@hotmail.com|false|true
+Lý Nhân Sâm|Long Biên|Phúc Lợi|182 Xã Kim Chung|472|707|2024-03-31|true|Trịnh Minh Tuấn|nhansam_ly50@yahoo.com|false|true
+Dương Ngọc Danh|Hoàn Kiếm|Hàng Mã|160 Quất Động|536|536|2024-03-31|false|Trịnh Minh Tuấn|ngocdanh_duong@hotmail.com|true|false
+Bùi Trúc Mai|Thường Tín|Quất Động|121 Phố Trúc Bạch|895|1196|2024-03-31|true|Trịnh Minh Tuấn|trucmai_bui94@hotmail.com|false|true
+Dương Thụy Nương|Ba Vì|Tây Đằng|87 Cách Bi|537|737|2024-03-31|true|Trịnh Minh Tuấn|thuynuong.duong98@gmail.com|false|true
+Đặng Quỳnh Sa|Ba Vì|Chu Minh|202 Nam Đồng|740|1040|2024-03-31|false|Trịnh Minh Tuấn|quynhsa_7kang75@gmail.com|true|true
+Hoàng Ngọc Khương|Đan Phượng|Phùng|183 Văn Tự|529|561|2024-03-31|true|Trịnh Minh Tuấn|ngockhuong_hoang@hotmail.com|false|true
+Đinh Tiểu Bảo|Hoàng Mai|Tân Mai|69 Đống Đa|592|592|2024-03-31|false|Trịnh Minh Tuấn|tieubao_7kinh0@gmail.com|true|false
+Hồ Tường Vân|Hà Đông|Phú Lãm|91 Ngõ 639 Hoàng Hoa Thám|540|540|2024-03-31|false|Trịnh Minh Tuấn|tuongvan_ho@hotmail.com|true|false
+Trịnh Anh Phương|Nam Từ Liêm|Tây Mỗ|176 Phố Nam Cao|373|609|2024-03-31|true|Trịnh Minh Tuấn|anhphuong.trinh8@gmail.com|false|true
+Trịnh Nghi Xuân|Thạch Thất|Tân Xã|38 Đường Lâm Tiên|572|572|2024-03-31|false|Trịnh Minh Tuấn|nghixuan_trinh73@hotmail.com|true|false
+Tô Hồng Lĩnh|Hà Đông|Kiến Hưng|28 Đường Nguyễn Chí Thanh|541|842|2024-03-31|false|Trịnh Minh Tuấn|honglinh_to6@gmail.com|true|true
+Dương An Hằng|Ba Vì|Vân Hoà|127 Đường Quốc Lộ 5|323|323|2024-03-31|false|Trịnh Minh Tuấn|anhang_duong62@hotmail.com|true|false
+Hồ Xuân Liễu|Ứng Hoà|Trường Thịnh|186 Cửa Đông|414|510|2024-03-31|true|Trịnh Minh Tuấn|xuanlieu_ho73@hotmail.com|false|true
+Lê Triển Sinh|Nam Từ Liêm|Trung Văn|159 Đường Cổng Vĩnh|660|660|2024-03-31|false|Trịnh Minh Tuấn|triensinh.le85@gmail.com|true|false
+Phạm Tâm Thanh|Hoàn Kiếm|Phúc Tân|23 Phố Ga|539|842|2024-03-31|true|Trịnh Minh Tuấn|tamthanh_pham@hotmail.com|false|true
+Ngô Hiếu Hạnh|Ba Vì|Tiên Phong|69 Ngõ 31 Nguyễn Chí Thanh|540|619|2024-03-31|true|Trịnh Minh Tuấn|hieuhanh_ngo42@gmail.com|false|true
+Bùi Thanh Tịnh|Hoàng Mai|Hoàng Văn Thụ|51 Vân Côn|838|1000|2024-03-31|true|Trịnh Minh Tuấn|thanhtinh.bui15@yahoo.com|false|true
+Hoàng Giáng Tiên|Ba Vì|Cẩm Lĩnh|126 Đường Cụt|844|878|2024-03-31|true|Trịnh Minh Tuấn|giangtien_hoang@yahoo.com|false|true
+Vũ Anh Minh|Ba Vì|Tây Đằng|120 Đường Láng Hạ|863|1008|2024-03-31|true|Trịnh Minh Tuấn|anhminh_vu72@hotmail.com|false|true
+Vũ Tâm Hằng|Hoài Đức|Minh Khai|47 Đường Trúc Bạch|281|281|2024-03-31|false|Trịnh Minh Tuấn|tamhang_vu96@gmail.com|true|false
+Hoàng Thanh Dân|Mỹ Đức|Phúc Lâm|144 Xã Xuân Canh|925|1036|2024-03-31|true|Trịnh Minh Tuấn|thanhdan.hoang@gmail.com|false|true
+Hà Tuyết Vân|Quốc Oai|Sài Sơn|158 Phố Nguyễn Khắc Nhu|568|691|2024-03-31|false|Trịnh Minh Tuấn|tuyetvan_ha70@gmail.com|true|true
+Đỗ Hữu Tân|Thường Tín|Chương Dương|188 Lý Nam Đế|661|661|2024-03-31|false|Trịnh Minh Tuấn|huutan.7ko@hotmail.com|true|false
+Trịnh Vân Quỳnh|Mỹ Đức|Phùng Xá|32 Ngọc Hà|454|739|2024-03-31|false|Trịnh Minh Tuấn|vanquynh_trinh@hotmail.com|true|true
+Vũ Đức Phong|Phúc Thọ|Vân Nam|140 Đường Phúc Diễn|663|943|2024-03-31|true|Trịnh Minh Tuấn|7kucphong_vu@hotmail.com|false|true
+Đoàn Mạnh Cương|Tây Hồ|Quảng An|50 Đường Thôn Đìa-Nam Hồng|775|944|2024-03-31|true|Trịnh Minh Tuấn|manhcuong.7koan39@gmail.com|false|true
+Đào Quỳnh Trang|Thường Tín|Văn Phú|110 Phố Lê Hồng Phong|404|404|2024-03-31|false|Trịnh Minh Tuấn|quynhtrang.7kao85@yahoo.com|true|false
+Mai Gia Thịnh|Chương Mỹ|Trung Hoà|205 Đường Khúc Hạo|326|326|2024-03-31|false|Trịnh Minh Tuấn|giathinh.mai10@gmail.com|true|false
+Ngô Khánh Giang|Sóc Sơn|Thanh Xuân|108 Đường Nguyễn Thái Học|925|929|2024-03-31|true|Trịnh Minh Tuấn|khanhgiang.ngo20@yahoo.com|false|true
+Vương Quỳnh Như|Cầu Giấy|Nghĩa Tân|78 Đường |562|936|2024-03-31|true|Trịnh Minh Tuấn|quynhnhu_vuong@yahoo.com|false|true
+Bùi Hải Sinh|Ba Vì|Ba Vì|191 Đường Dục Tú|700|700|2024-03-31|false|Trịnh Minh Tuấn|haisinh.bui78@yahoo.com|true|false
+Mai Ngọc Lân|Gia Lâm|Lệ Chi|144 Đường Hoàng Diệu|910|1276|2024-03-31|false|Trịnh Minh Tuấn|ngoclan_mai59@gmail.com|true|true
+Phạm Ngọc Khánh|Long Biên|Đức Giang|160 Phố Hòe Nhai|452|452|2024-03-31|false|Trịnh Minh Tuấn|ngockhanh_pham@yahoo.com|true|false
+Vương Kim Phú|Ba Đình|Nguyễn Trung Trực|107 Phố Đội Cấn|622|622|2024-03-31|false|Trịnh Minh Tuấn|kimphu_vuong69@gmail.com|true|false
+Phan Xuân Cao|Ứng Hoà|Phương Tú|42 Phố Kênh Giữa|395|395|2024-03-31|false|Trịnh Minh Tuấn|xuancao.phan@hotmail.com|true|false
+Đỗ Vĩnh Ân|Thanh Oai|Hồng Dương|65 Đường Đại Mạch|476|532|2024-03-31|false|Trịnh Minh Tuấn|vinhan.7ko84@yahoo.com|true|true
+Dương Hoàng Ân|Cầu Giấy|Nghĩa Đô|122 Phố Hồng Phúc|653|653|2024-03-31|false|Trịnh Minh Tuấn|hoangan_duong@hotmail.com|true|false
+Nguyễn Mai Phương|Quốc Oai|Cộng Hoà|109 Phố Nguyễn Công Hoan|250|250|2024-03-31|false|Trịnh Minh Tuấn|maiphuong.nguyen90@yahoo.com|true|false
+Đỗ Hữu Trác|Thường Tín|Nghiêm Xuyên|165 Ngõ Hàng Bột|528|848|2024-03-31|false|Trịnh Minh Tuấn|huutrac_7ko@hotmail.com|true|true
+Lê Ánh Thơ|Tây Hồ|Phú Thượng|191 Đường Nguyễn Chí Thanh|555|555|2024-03-31|false|Trịnh Minh Tuấn|anhtho.le91@hotmail.com|true|false
+Ngô Kiều Dung|Ba Đình|Giảng Võ|98 Đường đi Dương Liễu|556|699|2024-03-31|true|Trịnh Minh Tuấn|kieudung_ngo@gmail.com|false|true
+Nguyễn Phượng Long|Đan Phượng|Liên Hà|34 Đường Nghĩa Vũ|970|1337|2024-03-31|true|Trịnh Minh Tuấn|phuonglong.nguyen@hotmail.com|false|true
+Lê Lâm Tuyền|Sóc Sơn|Nam Sơn|194 Đường Đồng Quan|746|1069|2024-03-31|true|Trịnh Minh Tuấn|lamtuyen.le@hotmail.com|false|true
+Nguyễn Ánh Linh|Thạch Thất|Yên Trung|203 Hà Hồi|880|928|2024-03-31|true|Trịnh Minh Tuấn|anhlinh_nguyen99@hotmail.com|false|true
+Bùi Bích Hà|Tây Hồ|Phú Thượng|135 Đại Lộ Thăng Long|742|755|2024-03-31|true|Trịnh Minh Tuấn|bichha.bui@yahoo.com|false|true
+Phan Kim Thông|Hai Bà Trưng|Bách Khoa|17 ngõ 535 Kim mã|1118|1509|2024-03-31|true|Trịnh Minh Tuấn|kimthong.phan43@yahoo.com|false|true
+Phan Trọng Chính|Tây Hồ|Quảng An|35 Phố Giang Văn Minh|870|1071|2024-03-31|true|Trịnh Minh Tuấn|trongchinh.phan45@gmail.com|false|true
+Trịnh Kim Phú|Thanh Xuân|Khương Mai|144 Lai Yên|482|482|2024-03-31|false|Trịnh Minh Tuấn|kimphu.trinh@gmail.com|true|false
+Nguyễn Thy Khanh|Hai Bà Trưng|Thanh Nhàn|105 Đường Nguyễn Chí Thanh|820|898|2024-03-31|true|Trịnh Minh Tuấn|thykhanh_nguyen@yahoo.com|false|true
+Trần Bích Thoa|Hoàn Kiếm|Tràng Tiền|20 Đường Cầu Binh|751|818|2024-03-31|true|Trịnh Minh Tuấn|bichthoa_tran@yahoo.com|false|true
+Lê Bảo Chấn|Mê Linh|Đại Thịnh|55 Tô Hiệu|847|1073|2024-03-31|true|Trịnh Minh Tuấn|baochan.le34@yahoo.com|false|true
+Đinh Kiều Khanh|Thanh Trì|Thanh Liệt|189 Đường Cầu Binh|676|964|2024-03-31|true|Trịnh Minh Tuấn|kieukhanh_7kinh13@yahoo.com|false|true
+Lê Phương Thể|Sơn Tây|Ngô Quyền|27 Phố Kim Mã|796|1085|2024-03-31|true|Trịnh Minh Tuấn|phuongthe.le13@yahoo.com|false|true
+Hoàng Trọng Trí|Đan Phượng|Hạ Mỗ|186 Phố Sơn Tây|717|1040|2024-03-31|true|Trịnh Minh Tuấn|trongtri_hoang@gmail.com|false|true
+Phan Bảo Huỳnh|Hoàng Mai|Tân Mai|167 Lương Nỗ|652|877|2024-03-31|true|Trịnh Minh Tuấn|baohuynh_phan@gmail.com|false|true
+Tô Chí Công|Thạch Thất|Thạch Hoà|123 Đường Núi Đôi|705|1084|2024-03-31|true|Trịnh Minh Tuấn|chicong.to@gmail.com|false|true
+Đoàn Nghị Quyền|Ba Đình|Liễu Giai|25 Ngõ 103 Kim Mã|629|919|2024-03-31|false|Trịnh Minh Tuấn|nghiquyen_7koan19@yahoo.com|true|true
+Trương Thu Thảo|Cầu Giấy|Dịch Vọng|176 AH 1|1019|1163|2024-03-31|true|Trịnh Minh Tuấn|thuthao.truong48@gmail.com|false|true
+Mai Như Trân|Gia Lâm|Ninh Hiệp|11 Đường Nguyễn Thái Học|564|566|2024-03-31|true|Trịnh Minh Tuấn|nhutran.mai@yahoo.com|false|true
+Đặng Công Phụng|Tây Hồ|Quảng An|112 Đường Thượng Thụy|738|1016|2024-03-31|true|Trịnh Minh Tuấn|congphung_7kang61@hotmail.com|false|true
+Lê Phương Nghi|Hoàng Mai|Giáp Bát|151 Ngõ Trúc Lạc|699|729|2024-03-31|false|Trịnh Minh Tuấn|phuongnghi_le77@hotmail.com|true|true
+Đào Công Bằng|Hoàn Kiếm|Hàng Trống|115 Đường Cầu Đôi|411|710|2024-03-31|true|Trịnh Minh Tuấn|congbang_7kao@hotmail.com|false|true
+Đinh Bạch Yến|Thường Tín|Văn Phú|34 Xã Thụy Lâm|586|772|2024-03-31|true|Trịnh Minh Tuấn|bachyen.7kinh@hotmail.com|false|true
+Hoàng Như Hoa|Hà Đông|Vạn Phúc|144 Hiền Giang|697|812|2024-03-31|false|Trịnh Minh Tuấn|nhuhoa.hoang46@hotmail.com|true|true
+Đào Chí Công|Hai Bà Trưng|Minh Khai|61 Tổ 36|565|565|2024-03-31|false|Trịnh Minh Tuấn|chicong.7kao@gmail.com|true|false
+Mai Phương Nam|Nam Từ Liêm|Phương Canh|130 Ngõ 102 A3 Núi Trúc|667|673|2024-03-31|true|Trịnh Minh Tuấn|phuongnam.mai29@yahoo.com|false|true
+Trần Phương Yến|Nam Từ Liêm|Cầu Diễn|36 Phố Trần Tế Xương|548|659|2024-03-31|true|Trịnh Minh Tuấn|phuongyen_tran71@hotmail.com|false|true
+Phùng Lê Quỳnh|Thanh Xuân|Khương Mai|188 Phố Núi Trúc|1042|1244|2024-03-31|true|Trịnh Minh Tuấn|lequynh_phung83@hotmail.com|false|true
+Đào Thế Vinh|Sơn Tây|Thanh Mỹ|74 Thành Công|448|733|2024-03-31|true|Trịnh Minh Tuấn|thevinh_7kao@hotmail.com|false|true
+Hà Duy Thông|Đống Đa|Ô Chợ Dừa|175 Đường Mai Hiên|815|916|2024-03-31|true|Trịnh Minh Tuấn|duythong_ha37@yahoo.com|false|true
+Phùng Hữu Từ|Tây Hồ|Phú Thượng|55 Thị trấn Trạm Trôi|764|1060|2024-03-31|true|Trịnh Minh Tuấn|huutu_phung69@hotmail.com|false|true

@@ -1,0 +1,137 @@
+.ranking {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0948d1;
+    /* height: 100vh; */
+}
+.ranking_container {
+    margin: 15px 0 30px 0;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(213, 217, 230, 0.966);
+    width: 90%;
+    /* height: 0vh; */
+    box-shadow: 3px 5px 3px 4px rgb(209, 197, 197);
+    position: relative;
+}
+.ranking_titile {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.ranking_name {
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: #e2dddd;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.table-list {
+    width: 1800px !important;
+    margin-bottom: 0 !important;
+}
+
+.table-ranking {
+    width: 100%;
+}
+.table_col {
+    color: #d1caca;
+    font-size: 25px;
+}
+.table_row {
+    color: #c1bfbe;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.table-container {
+    /* overflow-y: hidden;
+    overflow-x: scroll; */
+    margin-bottom: 20px;
+}
+.selection {
+    display: flex;
+    font-size: 15px;
+    margin-bottom: 30px;
+    width: 45%;
+}
+
+.selection-ranking {
+    display: flex;
+    font-size: 15px;
+    margin-bottom: 30px;
+    width: 33%;
+}
+.selection-item {
+    margin: 0 8px;
+}
+.search {
+    width: 50%;
+}
+.send_mail {
+    position: absolute;
+    right: 20px;
+}
+.text-mail {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    width: 400px;
+}
+.selection-item {
+    max-width: 150px;
+}
+
+.address-column {
+    width: 25%;
+}
+
+.name-column {
+    width: 15%;
+}
+
+.send_btn {
+    padding: 8px 16px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #9eacd6;
+    color: rgb(238, 231, 231);
+    background-color: #0948d1;
+    transition: all 0.2s ease-out;
+}
+
+.send_btn:hover {
+    opacity: 0.6;
+}
+
+.send_btn:disabled {
+    opacity: 0.5;
+}
+
+.empty-data {
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    margin: 20px 0;
+}
+
+.empty-data img {
+    width: 30%;
+}
+
+.empty-data p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.empty {
+    user-select: none;
+}
+
+.empty:hover {
+    background-color: transparent address-column !important;
+}

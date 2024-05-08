@@ -1,0 +1,61 @@
+.home {
+    background-color: #1c059b;
+    height: 85vh;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 3px 5px 2px rgb(39, 67, 226);
+}
+.home__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    color: #fff;
+}
+.page_caro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.caro-img {
+    width: 70%;
+    border-radius: 10px;
+    height: 300px;
+    opacity: 0.9;
+}
+.button {
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 50px;
+}
+.login {
+    font-size: 18px;
+    padding: 8px 10px;
+    margin: 8px 25px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    background-color: #1430af;
+    text-align: center;
+    border: 1px solid #322fda;
+    box-shadow: 1px 0 3px 1px rgb(14, 11, 194);
+}
+
+.login:hover {
+    color: #b4c3d8 !important;
+}

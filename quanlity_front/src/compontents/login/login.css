@@ -1,0 +1,118 @@
+.loginn {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(https://evn.com.vn/sotayclpt/images/slide-2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 10000;
+}
+
+.login-table {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #eeeef0;
+    margin: 0 60px 0 0;
+    box-shadow: 3px 0 3px 2px rgb(189, 188, 187);
+}
+.login-header {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.login_name {
+    font-size: 28px;
+    font-weight: 600;
+    padding: 0 100px;
+    text-decoration: none;
+}
+.login_name.active {
+    font-size: 28px;
+    font-weight: 600;
+    padding: 0 100px;
+    color: #f4800d;
+}
+
+.login__acc {
+    text-align: center;
+    font-size: 12px;
+    color: #08011d;
+    margin-bottom: 16px;
+}
+.login__acc-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login__acc-input {
+    width: 70%;
+    margin: 0 20px 20px 20px;
+    position: relative;
+}
+.login__acc-input.password:hover .eye-icon {
+    opacity: 1;
+}
+.login__acc-input input {
+    width: 100%;
+    padding: 10px;
+    color: #05053e;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 3px 0 5px 4px rgb(232, 232, 232);
+    border: none;
+}
+
+.login__acc-input.err input {
+    border: 1px solid #f14545;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0;
+    transition: opacity 0.08s ease;
+    cursor: pointer;
+}
+.login_btn {
+    width: 70%;
+    margin-top: 14px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #ea4615;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.login-help {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 26px;
+    padding-bottom: 30px;
+    color: rgb(24, 23, 23);
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.8rem;
+}
+.error-message {
+    color: red;
+    margin-bottom: 0 !important;
+    margin-top: 10px;
+}
